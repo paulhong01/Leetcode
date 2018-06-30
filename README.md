@@ -5,11 +5,22 @@ This is my Leetcode solutions in Java. I will update my solutions as soon as pos
 # <h3> Depth-first search
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
+[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Solution](Solution561.java)| Easy |
+[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
+[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
+[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
+[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
+
+# <h3> Depth-first search
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
 [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)| [Solution](Solution690.java)| Easy | 
 [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)| [Solution](Solution529.java)| Medium | 
 [547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)| [Solution](Solution547.java)| Medium | Remember to write an union-find solution!! 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
+[756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 
 
 # <h3> Binary search
@@ -25,3 +36,13 @@ Title | Solution | Difficulty | Others
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
+
+
+# <h3> Two Pointers
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
+[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
+[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
+[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
