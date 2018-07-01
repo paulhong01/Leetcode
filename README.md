@@ -2,7 +2,7 @@
 This is my Leetcode solutions in Java. I will update my solutions as soon as possible. If you have any suggestions of my solutions, please feel free to contact me! I would be glad to discuss with you!
 
 
-# <h3> Depth-first search
+# <h3> Array
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
@@ -11,6 +11,12 @@ Title | Solution | Difficulty | Others
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution696.java)| Easy | Remember to write an union-find solution!! 
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
+[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
+[667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
+
 
 # <h3> Depth-first search
 Title | Solution | Difficulty | Others
