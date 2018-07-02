@@ -19,6 +19,12 @@ Title | Solution | Difficulty | Others
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
 
 
+# <h3> Dynamic Programming
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
+
+
 # <h3> Depth-first search
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -53,3 +59,9 @@ Title | Solution | Difficulty | Others
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
+
+
+# <h3> Breadth-first Search
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |

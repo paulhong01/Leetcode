@@ -24,7 +24,20 @@ class Solution287{
         }
         */
 
-        // Method 2: Binary Search TC: O(nlog(n)) SC:O(1)
+        // Method 2: Modify the array, TC: O(n), SC:O(1)
+        /*
+        for (int i = 0; i < nums.length; i++){
+            int idx = Math.abs(nums[i]) - 1;
+            if (nums[idx] > 0){
+                nums[idx] = -nums[idx];
+            }else{
+                return nums[i];
+            }
+        }
+        return -1;
+        */
+
+        // Method 3: Binary Search TC: O(nlog(n)) SC:O(1)
         /*
         int size = nums.length;
         int l = 1, h = size - 1;
@@ -40,7 +53,7 @@ class Solution287{
         return l;
         */
 
-        // Method 3: Using linked list and loop TC:O(n) SC:O(1)
+        // Method 4: Using linked list and loop TC:O(n) SC:O(1)
         int slow = nums[0];
         int fast = nums[nums[0]];
         while (slow != fast){
@@ -53,6 +66,5 @@ class Solution287{
             fast = nums[fast];
         }
         return fast;
-        //return 0;
     } 
 }
