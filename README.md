@@ -11,7 +11,7 @@ Title | Solution | Difficulty | Others
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
-[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution696.java)| Easy | Remember to write an union-find solution!! 
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
@@ -64,4 +64,8 @@ Title | Solution | Difficulty | Others
 # <h3> Breadth-first Search
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |
+[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
+[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy | 
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy | 
