@@ -25,6 +25,14 @@ Title | Solution | Difficulty | Others
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 
 
+# <h3> String
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
+[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
+[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Solution](Solution537.java) | Medium |
+
+
 # <h3> Depth-first search
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -65,7 +73,15 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
+[773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
+[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | Not finish!
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy | 
-[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy | 
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
+ 
+
+ # <h3> Backtracking
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
