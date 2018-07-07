@@ -31,6 +31,9 @@ Title | Solution | Difficulty | Others
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
 [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
 [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Solution](Solution537.java) | Medium |
+[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy | 
+[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
+[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
 
 
 # <h3> Depth-first search

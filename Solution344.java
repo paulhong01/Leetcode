@@ -10,7 +10,7 @@ public class Solution344{
     }
 
     public String reverseString(String s) {
-        // Use two pointers, TC: O(N/2), SC: O(1)
+        // Use two pointers, TC: O(N), SC: O(1)
         char c[] = s.toCharArray();
         int l = 0, r = s.length()-1;
         while (l < r){
