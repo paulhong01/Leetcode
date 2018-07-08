@@ -34,6 +34,7 @@ Title | Solution | Difficulty | Others
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy | 
 [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
 [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
+[521. Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](Solution521.java) | Easy |
 
 
 # <h3> Depth-first search
@@ -88,3 +89,6 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
+[526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium |
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](Solution22.java) | Medium | The proof of complexity is cool !
+[46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium | 
