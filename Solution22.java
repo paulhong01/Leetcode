@@ -4,12 +4,10 @@ import java.util.*;
 public class Solution22{
     public static void main(String[] args){
         //int n = 3;
-        int n = 1;
+        int n = 3;
         Solution22 sol = new Solution22();
         List<String> result = sol.generateParenthesis(n);
-        for (String r: result){
-            System.out.println(r);
-        }
+        System.out.println(result);
     }
 
     public List<String> generateParenthesis(int n) {

@@ -35,6 +35,9 @@ Title | Solution | Difficulty | Others
 [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
 [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
 [521. Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](Solution521.java) | Easy |
+[553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
+[824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
+[520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
 
 
 # <h3> Depth-first search
@@ -91,4 +94,8 @@ Title | Solution | Difficulty | Others
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
 [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium |
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](Solution22.java) | Medium | The proof of complexity is cool !
-[46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium | 
+[46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
+[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium | 
+[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
+[294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
+[78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
