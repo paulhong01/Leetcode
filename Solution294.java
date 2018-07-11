@@ -13,7 +13,7 @@ import java.util.*;
 
 public class Solution294{
     public static void main(String[] args){
-        String s = "+++++++++";
+        String s = "++++";
         Solution294 sol = new Solution294();
         if (sol.canWin(s)){
             System.out.println("True");
@@ -21,37 +21,46 @@ public class Solution294{
             System.out.println("False");
         }
     }
-    private boolean result = false;
 
     public boolean canWin(String s) {
-        boolean flag = false;
-        helper(s.toCharArray(), 0, flag);
-        return result;
-    }
-
-    private void helper(char[] c, int turn, boolean flag){
-        if (flag)
-            return;
-        for (int i = 1; i < c.length; i++){
-            if(c[i] == '+' && c[i-1] == '+'){
-                c[i] = '-';
-                c[i-1] = '-';
-                helper(c, turn^1, flag);
-                c[i] = '+';
-                c[i-1] = '+';
-            } else if (i == c.length-1){
-                for (int j = 1; j < c.length; j++){
-                    if (c[j] == '+' && c[j-1] == '+'){
-                        break;
-                    } else if (j == c.length-1){
-                        if (turn == 1){
-                            flag = true;
-                            result = true;
-                        }
-                    }
-                }
-                return;
+        int count = 0;
+        for (int i = 1; i < s.length(); i++){
+            //System.out.printf("%d ", i);
+            if (s.charAt(i) == '+' && s.charAt(i-1) == '+'){
+                count += 1;
             }
         }
+        //System.out.printf("\n%d ", count);
+        return (count % 2 == 1);
+        //return helper(s.toCharArray(), 0);
     }
+
+    // private boolean helper(char[] c, int turn){
+    //     for (int i = 1; i < c.length; i++){
+    //         System.out.printf("%s, Index: %d, Turn: %d\n", new String(c), i, turn);
+    //         if(c[i] == '+' && c[i-1] == '+'){
+    //             c[i] = '-';
+    //             c[i-1] = '-';
+    //             if (helper(c, turn^1)){
+    //                 return true;
+    //             } else {
+    //                 c[i] = '+';
+    //                 c[i-1] = '+';
+    //             }
+    //         } else if (i == c.length-1){
+    //             for (int j = 1; j < c.length; j++){
+    //                 if (c[j] == '+' && c[j-1] == '+'){
+    //                     break;
+    //                 } else if (j == c.length-1){
+    //                     if (turn == 1){
+    //                         return true;
+    //                     } else{
+    //                         return false;
+    //                     }
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     return false;
+    // }
 }
