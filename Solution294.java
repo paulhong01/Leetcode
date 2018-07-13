@@ -23,44 +23,42 @@ public class Solution294{
     }
 
     public boolean canWin(String s) {
-        int count = 0;
+        // Backtracking: TC:O(n!!), SC:O(n!!)
+        /* if (s == null || s.length() < 2)
+            return false;
+        
         for (int i = 1; i < s.length(); i++){
-            //System.out.printf("%d ", i);
+            String t = "";
             if (s.charAt(i) == '+' && s.charAt(i-1) == '+'){
-                count += 1;
+                t = s.substring(0, i-1) + "--" + s.substring(i+1);
+                if (!canWin(t)){
+                    return true;
+                }
             }
         }
-        //System.out.printf("\n%d ", count);
-        return (count % 2 == 1);
-        //return helper(s.toCharArray(), 0);
+        return false; */
+        
+        // Backtracking with memorization, TC:O(2^n), SC:O(2^n)
+        Map<String, Boolean> memo = new HashMap();
+        return dfs(s, memo);
     }
 
-    // private boolean helper(char[] c, int turn){
-    //     for (int i = 1; i < c.length; i++){
-    //         System.out.printf("%s, Index: %d, Turn: %d\n", new String(c), i, turn);
-    //         if(c[i] == '+' && c[i-1] == '+'){
-    //             c[i] = '-';
-    //             c[i-1] = '-';
-    //             if (helper(c, turn^1)){
-    //                 return true;
-    //             } else {
-    //                 c[i] = '+';
-    //                 c[i-1] = '+';
-    //             }
-    //         } else if (i == c.length-1){
-    //             for (int j = 1; j < c.length; j++){
-    //                 if (c[j] == '+' && c[j-1] == '+'){
-    //                     break;
-    //                 } else if (j == c.length-1){
-    //                     if (turn == 1){
-    //                         return true;
-    //                     } else{
-    //                         return false;
-    //                     }
-    //                 }
-    //             }
-    //         }
-    //     }
-    //     return false;
-    // }
+    private boolean dfs(String s, Map<String, Boolean> memo){
+        if (memo.containsKey(s)){
+            return memo.get(s);
+        }
+
+        for (int i = 1; i < s.length(); i++){
+            String t = "";
+            if (s.charAt(i) == '+' && s.charAt(i-1) == '+'){
+                t = s.substring(0, i-1) + "--" + s.substring(i+1);
+                if (!dfs(t, memo)){
+                    memo.put(t, false);
+                    return true;
+                }
+                memo.put(t, true);
+            }
+        }
+        return false;
+    }
 }

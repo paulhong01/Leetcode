@@ -9,18 +9,45 @@ public class Solution52{
         System.out.println(result);
     }
     private int count = 0;
-    private List<List<Integer>> check = new ArrayList<List<Integer>>();
+    private List<Integer> col = new ArrayList();
 
     public int totalNQueens(int n) {
-        // Method 1: Easy understand but complexity too high, TC:O(n^2)
-        boolean[] visited = new boolean[n+1];
-        helper(visited, new ArrayList<Integer>(), 0, n);
+        // Method 1: Easy understand but complexity too high, TC:O(n!*n)
+        /* boolean[] visited = new boolean[n+1];
+        helper(visited, new ArrayList<Integer>(), 0, n); */
+
+        // Method 2: Use three boolean array, column, diagonal \, diagonal /,  to check the validation
+        // TC:O(n!), SC:O(n)
+        boolean[] visited_col = new boolean[n+1];   // col check
+        boolean[] visited_diagl = new boolean[2*n]; // diagonal:direction -> /
+        boolean[] visited_diagr = new boolean[2*n]; // diagonal: direction -> \
+        helper2(visited_col, visited_diagl, visited_diagr, 1, n);
         return count;
+    }
+
+    private void helper2(boolean[] visited_col, boolean[] visited_diagl, boolean[] visited_diagr, int pos, int length){
+        if (pos == length+1){
+            col.clear();
+            count++;
+            return;
+        }
+
+        for (int col = 1; col < visited_col.length; col++){
+            if (!visited_col[col] && !visited_diagl[pos+col-1] && !visited_diagr[length-pos+col]){
+                visited_col[col] = true;
+                visited_diagl[pos+col-1] = true;
+                visited_diagr[length-pos+col] = true;
+                helper2(visited_col, visited_diagl, visited_diagr, pos+1, length);
+                visited_col[col] = false;
+                visited_diagl[pos+col-1] = false;
+                visited_diagr[length-pos+col] = false;
+            }
+        }
     }
 
     private void helper(boolean[] visited, List<Integer> cur, int pos, int length){
         if (pos == length){
-            check.add(new ArrayList<Integer>(cur));
+            cur.clear();
             count++;
             return;
         }

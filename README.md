@@ -98,6 +98,7 @@ Title | Solution | Difficulty | Others
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium | 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
+[320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 
 
@@ -107,3 +108,5 @@ Title | Solution | Difficulty | Others
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium | 
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
+[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |

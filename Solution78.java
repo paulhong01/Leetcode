@@ -10,9 +10,9 @@ public class Solution78{
     }
 
     public List<List<Integer>> subsets(int[] nums) {
-        // Iteratively, it's really a nice thinking, reference by @sikp
+        // Method 1: iteratively, it's really a nice thinking, reference by @sikp
         // TC:O(n*2^n), SC:O(2^n), where n = nums.length
-        List<List<Integer>> result = new ArrayList<List<Integer>> ();
+        /* List<List<Integer>> result = new ArrayList<List<Integer>> ();
         result.add(new ArrayList<Integer>());
 
         for (int i = 0; i < nums.length; i++){
@@ -24,6 +24,22 @@ public class Solution78{
             }
         }
         
-        return result;
+        return result; */
+        
+        // Method 2: Backtracking, TC:O(n!), SC:O(n)
+        List<List<Integer>> list = new ArrayList<List<Integer>>();
+        helper(list, new ArrayList<Integer>(), nums, 0);
+        return list;
+    }
+
+    private void helper(List<List<Integer>> list, List<Integer> cur, int[] nums, int start){
+        list.add(new ArrayList<Integer>(cur));
+
+        for (int i = start; i < nums.length; i++){
+            cur.add(nums[i]);
+            helper(list, cur, nums, i+1);
+            cur.remove(cur.size()-1);
+        }
+        return;
     }
 }
