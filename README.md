@@ -40,6 +40,15 @@ Title | Solution | Difficulty | Others
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
 
 
+# <h3> Hash Table
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
+[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
+[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| [Solution](Solution463.java)| Easy | 
+
+
 # <h3> Depth-first search
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -109,4 +118,6 @@ Title | Solution | Difficulty | Others
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
+[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |

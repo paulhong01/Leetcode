@@ -18,10 +18,29 @@ public class Solution320{
     }
 
     public List<String> generateAbbreviations(String word) {
+        // Method 1: Easy understanding, check every position
+        // List<String> result = new ArrayList();
+        // result.add(word);
+        // helper(result, word, 0);
+        // return result;
+
+        // Method 2: Backtracking, inspired by @soymubien, TC:O(2^n), SC:O(2^n)
         List<String> result = new ArrayList();
-        result.add(word);
-        helper(result, word, 0);
+        helper2(result, word, 0, "", 0); 
         return result;
+    }
+
+    private void helper2(List<String> result, String word, int pos, String cur, int count){
+        if (pos == word.length()){
+            if (count > 0) cur += count;
+            result.add(cur);
+        } else{
+            //Abbreviate
+            helper2(result, word, pos+1, cur, count+1);
+            // Do not abbreviate
+            helper2(result, word, pos+1, cur + ((count>0)?count:"") + word.charAt(pos), 0);
+            
+        }
     }
 
     private void helper(List<String> result, String word, int start){
@@ -48,7 +67,6 @@ public class Solution320{
 
                 if (flag){
                     String t = word.substring(0,idx) + Integer.toString(length) + word.substring(idx+length);
-                    // System.out.printf("Word: %s, t: %s, length: %d, start: %d\n", word, t, length, start);
                     result.add(t);
                     helper(result, t, idx+1);
                 }
