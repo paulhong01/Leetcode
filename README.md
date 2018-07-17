@@ -47,6 +47,11 @@ Title | Solution | Difficulty | Others
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
 [463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| [Solution](Solution463.java)| Easy | 
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
+[136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
+[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
+[508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
+
 
 
 # <h3> Depth-first search
@@ -121,3 +126,5 @@ Title | Solution | Difficulty | Others
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
+[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |

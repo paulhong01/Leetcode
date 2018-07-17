@@ -18,30 +18,18 @@ public class Solution328{
     }
 
     public ListNode oddEvenList(ListNode head) {
+        // TC:O(n), SC:O(1)
         if (head == null)
             return head;
-        ListNode oddhead = head, odd = head;
-        ListNode evenhead = head.next, even = head.next;
-        if (evenhead == null){
-            return head;
+        ListNode odd = head, even = head.next;
+        ListNode evenhead = even;
+        while (even != null && even.next != null){
+            odd.next = even.next;
+            odd = odd.next;
+            even.next = odd.next;
+            even = even.next;
         }
-
-        ListNode cur = even.next;
-        int count = 3;
-
-        while (cur != null){
-            if (count % 2 == 1){
-                odd.next = cur;
-                odd = odd.next;
-            } else if (count % 2 == 0){
-                even.next = cur;
-                even = even.next;
-            }
-            count++;
-            cur = cur.next;
-        }
-        even.next = null;
         odd.next = evenhead;
-        return oddhead;
+        return head;
     }
 }
