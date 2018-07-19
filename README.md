@@ -38,6 +38,17 @@ Title | Solution | Difficulty | Others
 [553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
 [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
+[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
+
+
+# <h3> Tree
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
+[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
+[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)| [Solution](Solution617.java)| Easy | 
+[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
+[513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |  
 
 
 # <h3> Hash Table
