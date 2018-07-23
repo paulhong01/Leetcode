@@ -23,6 +23,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
+[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 
 
 # <h3> String
@@ -41,6 +42,7 @@ Title | Solution | Difficulty | Others
 [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
 
 
+
 # <h3> Tree
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -55,6 +57,9 @@ Title | Solution | Difficulty | Others
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [Solution](Solution94.java)| Medium |
 [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)| [Solution](Solution653.java)| Easy |
+[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)| [Solution](Solution606.java)| Easy |
+[655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
+[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |      
 
 
 # <h3> Hash Table
@@ -68,6 +73,7 @@ Title | Solution | Difficulty | Others
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium | 
 
 
 
@@ -131,6 +137,12 @@ Title | Solution | Difficulty | Others
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
+
+
+# <h3> Greedy
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 
 
 # <h3> Linked List
