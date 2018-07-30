@@ -2,7 +2,7 @@
 This is my Leetcode solutions in Java. I will update my solutions as soon as possible. If you have any suggestions of my solutions, please feel free to contact me! I would be glad to discuss with you!
 
 
-# <h3> Array
+# <h3> Array (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
@@ -17,16 +17,21 @@ Title | Solution | Difficulty | Others
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
 [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
+[169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
+[1. Two Sum](https://leetcode.com/problems/two-sum/description//) | [Solution](Solution1.java) | Easy |
 
 
-# <h3> Dynamic Programming
+# <h3> Dynamic Programming (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
+[494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
+[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
+[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
 
 
-# <h3> String
+# <h3> String (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
@@ -43,7 +48,7 @@ Title | Solution | Difficulty | Others
 
 
 
-# <h3> Tree
+# <h3> Tree (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
@@ -59,10 +64,12 @@ Title | Solution | Difficulty | Others
 [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)| [Solution](Solution653.java)| Easy |
 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)| [Solution](Solution606.java)| Easy |
 [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
-[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |      
+[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |  
+[100. Same Tree](https://leetcode.com/problems/same-tree/description/)| [Solution](Solution100.java)| Easy |       
+[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |       
 
 
-# <h3> Hash Table
+# <h3> Hash Table (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
@@ -77,7 +84,7 @@ Title | Solution | Difficulty | Others
 
 
 
-# <h3> Depth-first search
+# <h3> Depth-first search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
@@ -86,9 +93,10 @@ Title | Solution | Difficulty | Others
 [547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)| [Solution](Solution547.java)| Medium | Remember to write an union-find solution!! 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
+[337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
 
 
-# <h3> Binary search
+# <h3> Binary search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy| 
@@ -103,7 +111,7 @@ Title | Solution | Difficulty | Others
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
 
 
-# <h3> Two Pointers
+# <h3> Two Pointers (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
@@ -113,7 +121,7 @@ Title | Solution | Difficulty | Others
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
 
 
-# <h3> Breadth-first Search
+# <h3> Breadth-first Search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
@@ -125,7 +133,7 @@ Title | Solution | Difficulty | Others
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
  
 
- # <h3> Backtracking
+ # <h3> Backtracking (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
@@ -139,13 +147,13 @@ Title | Solution | Difficulty | Others
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 
 
-# <h3> Greedy
+# <h3> Greedy (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 
 
-# <h3> Linked List
+# <h3> Linked List (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium | 
