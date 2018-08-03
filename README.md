@@ -18,7 +18,8 @@ Title | Solution | Difficulty | Others
 [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
-[1. Two Sum](https://leetcode.com/problems/two-sum/description//) | [Solution](Solution1.java) | Easy |
+[1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](Solution1.java) | Easy |
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -29,6 +30,7 @@ Title | Solution | Difficulty | Others
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -81,6 +83,7 @@ Title | Solution | Difficulty | Others
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium | 
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Solution](Solution3.java)| Medium |
 
 
 
