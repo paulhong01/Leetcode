@@ -20,6 +20,7 @@ Title | Solution | Difficulty | Others
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](Solution1.java) | Easy |
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -31,6 +32,8 @@ Title | Solution | Difficulty | Others
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
+[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -148,17 +151,19 @@ Title | Solution | Difficulty | Others
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium | 
 
 
 # <h3> Greedy (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
-
+[621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
 
 # <h3> Linked List (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium | 
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
@@ -168,3 +173,9 @@ Title | Solution | Difficulty | Others
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
+
+
+# <h3> Bit Manipulation (Sorted by Acceptance)
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
