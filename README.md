@@ -34,6 +34,8 @@ Title | Solution | Difficulty | Others
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -87,7 +89,7 @@ Title | Solution | Difficulty | Others
 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium | 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Solution](Solution3.java)| Medium |
-
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 
 
 # <h3> Depth-first search (Sorted by Acceptance)
@@ -100,6 +102,7 @@ Title | Solution | Difficulty | Others
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
+[394. Decode String](https://leetcode.com/problems/decode-string/description/)| [Solution](Solution394.java)| Medium | 
 
 
 # <h3> Binary search (Sorted by Acceptance)
@@ -179,3 +182,9 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
+
+
+# <h3> Divide and Conquer (Sorted by Acceptance)
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](Solution215.java) | Medium |
