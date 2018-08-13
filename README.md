@@ -36,6 +36,7 @@ Title | Solution | Difficulty | Others
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
+[198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -74,6 +75,9 @@ Title | Solution | Difficulty | Others
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |  
 [100. Same Tree](https://leetcode.com/problems/same-tree/description/)| [Solution](Solution100.java)| Easy |       
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |       
+[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
+[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
+
 
 
 # <h3> Hash Table (Sorted by Acceptance)
