@@ -7,6 +7,7 @@ public class Solution148 {
         head.next = new ListNode(2);
         head.next.next = new ListNode(1);
         head.next.next.next = new ListNode(3);
+        head.next.next.next.next = new ListNode(-1);
 
         Solution148 sol = new Solution148();
         ListNode res = sol.sortList(head);
@@ -48,19 +49,15 @@ public class Solution148 {
         boolean flag = true;
         ListNode[] headtail = new ListNode[2];
         headtail[0] = head;
-        for (int n = 1; n < 3; n <<= 1) {
+        for (int n = 1; n < size; n <<= 1) {
             cur = head;
             flag = true;
-            // System.out.printf("n: %d\n", n);
-            // System.out.printf("%d, %d, %d, %d\n", cur.val, cur.next.val, cur.next.next.val, cur.next.next.next.val);
             tail = new ListNode(-1);
             while (cur != null) {
                 l = cur;
                 r = split(l, n);
                 cur = split(r, n);
                 headtail = merge2(l, r);
-                // tail.next = headtail[0];
-                // System.out.printf("0: %d, 1: %d\n", headtail[0].val, headtail[1].val);
                 tail.next = headtail[0];
                 tail = headtail[1];
                 if (flag) {
@@ -70,13 +67,11 @@ public class Solution148 {
             }
         }
         cur = head;
-        // System.out.printf("%d, %d, %d, %d\n", cur.val, cur.next.val, cur.next.next.val, cur.next.next.next.val);
     
         return cur;
     }
 
     private ListNode[] merge2(ListNode l, ListNode r) {
-        // System.out.printf("r: %d\n", r.val);
         ListNode[] res = new ListNode[2];
         ListNode head;
         ListNode tail = null;
@@ -101,7 +96,6 @@ public class Solution148 {
         cur = head;
 
         while (l != null && r != null) {
-            // System.out.printf("l: %d, r: %d\n", l.val, r.val);
             if (l.val < r.val) {
                 cur.next = l;
                 l = l.next;
@@ -122,8 +116,6 @@ public class Solution148 {
 
         res[0] = head;
         res[1] = tail;
-        // if (head.next.next != null)
-        //     System.out.printf("tail: %d\n", head.next.next.next.val);
         return res;
     }
 
