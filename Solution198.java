@@ -3,8 +3,8 @@ import java.util.*;
 
 public class Solution198 {
     public static void main(String[] args) {
-        int[] nums = {2, 7, 9, 3, 1};
-        // int[] nums = {8, 1, 1, 3};
+        // int[] nums = {2, 7, 9, 3, 1};
+        int[] nums = {8, 1, 1, 3};
         // int[] nums = {2, 1};
 
         Solution198 sol = new Solution198();
