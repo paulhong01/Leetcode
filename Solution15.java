@@ -2,7 +2,8 @@ import java.util.*;
 
 public class Solution15{
     public static void main(String args[]){
-        int []nums = {-1, 0, 1, 2, -1, -4};
+        // int []nums = {-1, 0, 1, 2, -1, -4};
+        int[] nums = {0, 0, 0, 0, 0};
         Solution15 s = new Solution15();
         s.threesum(nums);
     }

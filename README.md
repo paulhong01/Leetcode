@@ -21,6 +21,7 @@ Title | Solution | Difficulty | Others
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](Solution1.java) | Easy |
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
+[27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -53,7 +54,9 @@ Title | Solution | Difficulty | Others
 [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
 [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
-
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
+[796. Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](Solution796.java) | Easy |
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](Solution5.java) | Medium |
 
 
 # <h3> Tree (Sorted by Acceptance)
@@ -160,6 +163,7 @@ Title | Solution | Difficulty | Others
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium | 
+[89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
 
 
 # <h3> Greedy (Sorted by Acceptance)
@@ -182,6 +186,7 @@ Title | Solution | Difficulty | Others
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
+[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
 
 
 # <h3> Bit Manipulation (Sorted by Acceptance)
