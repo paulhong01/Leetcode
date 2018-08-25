@@ -22,6 +22,8 @@ Title | Solution | Difficulty | Others
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
+[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](Solution4.java) | Hard |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -32,12 +34,14 @@ Title | Solution | Difficulty | Others
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy |
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
+[42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](Solution42.java) | Hard |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -56,7 +60,15 @@ Title | Solution | Difficulty | Others
 [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
 [796. Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](Solution796.java) | Easy |
+[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](Solution6.java) | Medium |
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](Solution5.java) | Medium |
+
+
+# <h3> Math (Sorted by Acceptance)
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
+[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
 
 
 # <h3> Tree (Sorted by Acceptance)
@@ -111,6 +123,7 @@ Title | Solution | Difficulty | Others
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
 [394. Decode String](https://leetcode.com/problems/decode-string/description/)| [Solution](Solution394.java)| Medium | 
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
 
 
 # <h3> Binary search (Sorted by Acceptance)
@@ -126,6 +139,8 @@ Title | Solution | Difficulty | Others
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
+[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
 
 
 # <h3> Two Pointers (Sorted by Acceptance)
@@ -184,9 +199,11 @@ Title | Solution | Difficulty | Others
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
 
 
 # <h3> Bit Manipulation (Sorted by Acceptance)
