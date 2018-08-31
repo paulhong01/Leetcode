@@ -42,6 +42,7 @@ Title | Solution | Difficulty | Others
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](Solution42.java) | Hard |
+[139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -62,6 +63,7 @@ Title | Solution | Difficulty | Others
 [796. Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](Solution796.java) | Easy |
 [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](Solution6.java) | Medium |
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](Solution5.java) | Medium |
+[819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
 
 
 # <h3> Math (Sorted by Acceptance)
@@ -92,7 +94,11 @@ Title | Solution | Difficulty | Others
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |       
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
-
+[103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)| [Solution](Solution103.java)| Medium |
+[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
+[105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Solution](Solution105.java)| Medium |  
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium | 
+[109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
 
 
 # <h3> Hash Table (Sorted by Acceptance)
@@ -179,6 +185,7 @@ Title | Solution | Difficulty | Others
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium | 
 [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](Solution17.java) | Medium | 
 
 
 # <h3> Greedy (Sorted by Acceptance)
@@ -202,6 +209,7 @@ Title | Solution | Difficulty | Others
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
+[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.) | [Solution](Solution142.java) | Medium |
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
 
