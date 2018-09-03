@@ -24,6 +24,8 @@ Title | Solution | Difficulty | Others
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](Solution4.java) | Hard |
+[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](Solution11.java) | Medium |
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -64,6 +66,8 @@ Title | Solution | Difficulty | Others
 [6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](Solution6.java) | Medium |
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](Solution5.java) | Medium |
 [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
+[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
 
 
 # <h3> Math (Sorted by Acceptance)

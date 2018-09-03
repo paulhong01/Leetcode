@@ -11,7 +11,7 @@ public class Solution17 {
     }
 
     public List<String> letterCombinations(String digits) {
-        // Backtracking
+        // Backtracking, OC:(3^n), TC:O(n)
         int len = digits.length();
         List<String> result = new ArrayList();
         if (len == 0) {

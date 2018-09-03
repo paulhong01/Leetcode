@@ -19,13 +19,13 @@ public class Solution109 {
         ListNode slow = head;
         ListNode fast = head;
         ListNode prev = null;
-        System.out.printf("slow: %d\n", slow.val);
+        // System.out.printf("slow: %d\n", slow.val);
         while (fast.next != null && fast.next.next != null) {
             fast = fast.next.next;
             prev = slow;
             slow = slow.next;
         }
-        System.out.printf("prev: %d, slow: %d\n", prev==null?-100:prev.val, slow.val);
+        // System.out.printf("prev: %d, slow: %d\n", prev==null?-100:prev.val, slow.val);
         TreeNode root = new TreeNode(slow.val);
         if (prev != null) prev.next = null;
         if (slow != head)   root.left = sortedListToBST(head);
