@@ -68,6 +68,10 @@ Title | Solution | Difficulty | Others
 [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
+[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](Solution10.java) | Hard |
+[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Solution](Solution12.java) | Medium |
+[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 
 
 # <h3> Math (Sorted by Acceptance)
@@ -111,7 +115,7 @@ Title | Solution | Difficulty | Others
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
-[463. Island Perimeter](https://leetcode.com/problems/island-perimeter/description/)| [Solution](Solution463.java)| Easy | 
+[463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
@@ -120,6 +124,7 @@ Title | Solution | Difficulty | Others
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Solution](Solution3.java)| Medium |
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](Solution560.java)| Medium |
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
 
 
 # <h3> Depth-first search (Sorted by Acceptance)
@@ -151,6 +156,7 @@ Title | Solution | Difficulty | Others
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
 
 
 # <h3> Two Pointers (Sorted by Acceptance)
@@ -161,6 +167,7 @@ Title | Solution | Difficulty | Others
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](Solution88.java) | Easy |
 
 
 # <h3> Breadth-first Search (Sorted by Acceptance)
