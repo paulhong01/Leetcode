@@ -26,6 +26,7 @@ Title | Solution | Difficulty | Others
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](Solution4.java) | Hard |
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](Solution11.java) | Medium |
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -45,6 +46,7 @@ Title | Solution | Difficulty | Others
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](Solution42.java) | Hard |
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
 
 
 # <h3> String (Sorted by Acceptance)
@@ -72,6 +74,7 @@ Title | Solution | Difficulty | Others
 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Solution](Solution12.java) | Medium |
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
+[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Solution](Solution681.java) | Medium |
 
 
 # <h3> Math (Sorted by Acceptance)
@@ -107,6 +110,7 @@ Title | Solution | Difficulty | Others
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Solution](Solution105.java)| Medium |  
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium | 
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
+[297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
 
 
 # <h3> Hash Table (Sorted by Acceptance)
@@ -157,6 +161,7 @@ Title | Solution | Difficulty | Others
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
+[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [Solution](Solution301.java) | Hard |
 
 
 # <h3> Two Pointers (Sorted by Acceptance)
@@ -197,6 +202,7 @@ Title | Solution | Difficulty | Others
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium | 
 [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](Solution17.java) | Medium | 
+[51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
 
 
 # <h3> Greedy (Sorted by Acceptance)
@@ -204,6 +210,8 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
+
 
 # <h3> Linked List (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
