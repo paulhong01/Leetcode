@@ -27,6 +27,7 @@ Title | Solution | Difficulty | Others
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](Solution11.java) | Medium |
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
+[229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -75,6 +76,8 @@ Title | Solution | Difficulty | Others
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Solution](Solution681.java) | Medium |
+[165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
+[482. License Key Formatting](https://leetcode.com/problems/license-key-formatting//) | [Solution](Solution482.java) | Easy |
 
 
 # <h3> Math (Sorted by Acceptance)
@@ -143,6 +146,7 @@ Title | Solution | Difficulty | Others
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
 [394. Decode String](https://leetcode.com/problems/decode-string/description/)| [Solution](Solution394.java)| Medium | 
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
+[399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)| [Solution](Solution399.java)| Medium | 
 
 
 # <h3> Binary search (Sorted by Acceptance)
@@ -225,6 +229,7 @@ Title | Solution | Difficulty | Others
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |

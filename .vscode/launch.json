@@ -1,0 +1,1575 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch)",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution10",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution10",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution100",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution100",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution101",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution101",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution102",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution102",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution103",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution103",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution104",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution104",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution105",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution105",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution106",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution106",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution107",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution107",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution108",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution108",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution109",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution109",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution11",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution11",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution12",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution12",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution121",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution121",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution13",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution13",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution136",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution136",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution139",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution139",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution142",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution142",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution148",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution148",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution15",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution15",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution151",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution151",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution167",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution167",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution169",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution169",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution17",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution17",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution198",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution198",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution199",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution199",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution2",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution20",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution20",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution200",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution200",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution206",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution206",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution21",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution21",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution215",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution215",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution216",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution216",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution22",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution22",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution226",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution226",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution229",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution229",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution23",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution23",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution237",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution237",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution238",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution238",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution240",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution240",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution242",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution242",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution27",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution27",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution273",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution273",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution283",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution283",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution286",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution286",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution287",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution287",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution294",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution294",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution3",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution3",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution301",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution301",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution309",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution309",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution31",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution31",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution312",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution312",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution320",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution320",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution323",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution323",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution328",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution328",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution33",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution33",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution337",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution337",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution338",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution338",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution344",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution344",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution347",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution347",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution350",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution350",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution378",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution378",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution39",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution39",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution392",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution392",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution394",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution394",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution4",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution4",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution402",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution402",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution406",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution406",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution412",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution412",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution42",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution42",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution437",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution437",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution442",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution442",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution445",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution445",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution448",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution448",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution46",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution46",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution461",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution461",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution463",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution463",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution48",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution48",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution485",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution485",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution49",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution49",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution494",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution494",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution495",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution495",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution5",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution5",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution500",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution500",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution508",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution508",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution51",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution51",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution513",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution513",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution515",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution515",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution52",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution52",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution520",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution520",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution521",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution521",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution524",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution524",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution526",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution526",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution53",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution53",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution537",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution537",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution538",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution538",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution543",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution543",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution553",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution553",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution557",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution557",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution56",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution56",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution560",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution560",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution561",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution561",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution566",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution566",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution572",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution572",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution575",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution575",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution6",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution6",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution606",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution606",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution617",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution617",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution62",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution62",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution621",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution621",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution637",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution637",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution64",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution64",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution647",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution647",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution653",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution653",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution654",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution654",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution655",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution655",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution657",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution657",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution669",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution669",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution681",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution681",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution695",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution695",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution7",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution7",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution70",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution70",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution709",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution709",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution725",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution725",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution733",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution733",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution739",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution739",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution74",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution74",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution75",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution75",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution756",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution756",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution763",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution763",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution766",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution766",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution771",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution771",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution773",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution773",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution78",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution78",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution784",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution784",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution791",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution791",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution796",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution796",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution8",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution8",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution804",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution804",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution811",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution811",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution814",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution814",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution817",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution817",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution819",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution819",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution824",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution824",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution83",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution83",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution832",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution832",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution844",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution844",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution876",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution876",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution88",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution88",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution89",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution89",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution9",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution9",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution91",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution91",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution94",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution94",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution96",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Solution96",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": "<debug port of remote debuggee>"
+        }
+    ]
+}
