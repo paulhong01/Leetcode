@@ -2,32 +2,34 @@
 This is my Leetcode solutions in Java. I will update my solutions as soon as possible. If you have any suggestions of my solutions, please feel free to contact me! I would be glad to discuss with you!
 
 
-# <h3> Array (Sorted by Acceptance)
+# <h3> Array 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
-[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Solution](Solution561.java)| Easy |
-[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
-[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
-[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
-[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
-[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
-[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
-[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
-[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
-[667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
-[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
-[169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](Solution1.java) | Easy |
-[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
-[48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
-[27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
-[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](Solution4.java) | Hard |
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](Solution11.java) | Medium |
-[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
+[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](Solution34.java) | Medium |
+[48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
+[169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
+[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
+[442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
+[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
+[485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
+[495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
+[561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Solution](Solution561.java)| Easy |
+[566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
+[667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
+[695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
+[766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
+[832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
 
 
 # <h3> Dynamic Programming (Sorted by Acceptance)
@@ -50,37 +52,38 @@ Title | Solution | Difficulty | Others
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
 
 
-# <h3> String (Sorted by Acceptance)
+# <h3> String 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
-[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
-[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Solution](Solution537.java) | Medium |
-[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy | 
-[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
-[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
-[521. Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](Solution521.java) | Easy |
-[553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
-[824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
-[520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
-[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
-[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
-[796. Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](Solution796.java) | Easy |
-[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](Solution6.java) | Medium |
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [Solution](Solution5.java) | Medium |
-[819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
-[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
-[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
+[6. ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) | [Solution](Solution6.java) | Medium |
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](Solution10.java) | Hard |
 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Solution](Solution12.java) | Medium |
-[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
+[71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
-[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Solution](Solution681.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
+[273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
+[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
+[412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
 [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting//) | [Solution](Solution482.java) | Easy |
+[520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
+[521. Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](Solution521.java) | Easy |
+[537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Solution](Solution537.java) | Medium |
+[553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
+[557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
+[657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
+[681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Solution](Solution681.java) | Medium |
+[709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
+[791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
+[796. Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](Solution796.java) | Easy |
+[804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
+[819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
+[824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
 
 
-# <h3> Math (Sorted by Acceptance)
+# <h3> Math 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
@@ -116,22 +119,24 @@ Title | Solution | Difficulty | Others
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
 
 
-# <h3> Hash Table (Sorted by Acceptance)
+# <h3> Hash Table 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Solution](Solution3.java)| Medium |
+[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [Solution](Solution36.java)| Medium |
+[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
+[136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
+[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
+[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
+[387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
+[463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
+[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
+[508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](Solution560.java)| Medium |
+[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
+[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
-[500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
-[463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
-[575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
-[136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
-[739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
-[508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
-[347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium | 
-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)| [Solution](Solution3.java)| Medium |
-[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
-[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](Solution560.java)| Medium |
-[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
 
 
 # <h3> Depth-first search (Sorted by Acceptance)
@@ -168,45 +173,47 @@ Title | Solution | Difficulty | Others
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [Solution](Solution301.java) | Hard |
 
 
-# <h3> Two Pointers (Sorted by Acceptance)
+# <h3> Two Pointers
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
-[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
-[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
-[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
-[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
+[16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [Solution](Solution16.java) | Medium |
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](Solution88.java) | Easy |
+[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
+[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
+[344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
+[763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
+[844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
 
 
 # <h3> Breadth-first Search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
+[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |
+[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy |
+[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
+[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | Not finish!
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
-[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | Not finish!
-[102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |
-[199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
-[107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy | 
-[101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
- 
+
 
  # <h3> Backtracking (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
-[526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium |
-[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](Solution22.java) | Medium | The proof of complexity is cool !
-[46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
-[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium | 
-[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
-[294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
-[320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium | 
-[78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
-[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium | 
-[89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](Solution17.java) | Medium | 
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](Solution22.java) | Medium | The proof of complexity is cool !
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium |
+[40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](Solution40.java) | Medium |
+[46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
+[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
+[78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
+[89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
+[216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
+[294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
+[320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium |
+[526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium | 
+[784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
 
 
 # <h3> Greedy (Sorted by Acceptance)
@@ -217,26 +224,28 @@ Title | Solution | Difficulty | Others
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
 
 
-# <h3> Linked List (Sorted by Acceptance)
+# <h3> Linked List 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
-[817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium | 
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](Solution19.java) | Medium |
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
+[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
+[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](Solution24.java) | Medium |
+[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
+[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
+[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.) | [Solution](Solution142.java) | Medium |
+[148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
-[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
-[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
-[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
-[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
-[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [Solution](Solution2.java) | Medium |
-[148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
-[142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.) | [Solution](Solution142.java) | Medium |
-[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
-[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
-
+[445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
+[725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
+[817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium |
+[876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
+ 
 
 # <h3> Bit Manipulation (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
