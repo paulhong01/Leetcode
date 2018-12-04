@@ -26,30 +26,32 @@ Title | Solution | Difficulty | Others
 [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
 [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Solution](Solution561.java)| Easy |
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
+[581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| [Solution](Solution581.java)| Easy |
 [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
+[946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Solution](Solution946.java)| Medium |
 
 
-# <h3> Dynamic Programming (Sorted by Acceptance)
+# <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
-[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
-[494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
-[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
-[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
-[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy |
-[62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
-[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
-[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
-[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
-[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
-[198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](Solution42.java) | Hard |
-[139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
+[62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
+[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
+[96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy |
+[139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
+[198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
+[309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
+[312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
+[338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
+[494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
+[647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 
 
 # <h3> String 
@@ -191,6 +193,7 @@ Title | Solution | Difficulty | Others
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) | [Solution](Solution102.java) | Medium |
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy |
+[127. Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Solution](Solution127.java) | Medium |
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
 [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | Not finish!
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
