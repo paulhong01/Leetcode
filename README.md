@@ -31,6 +31,8 @@ Title | Solution | Difficulty | Others
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
+[867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Solution](Solution867.java)| Easy |
+[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](Solution905.java)| Easy |
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Solution](Solution946.java)| Medium |
 
 
