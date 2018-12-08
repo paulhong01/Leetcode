@@ -33,7 +33,9 @@ Title | Solution | Difficulty | Others
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Solution](Solution867.java)| Easy |
 [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](Solution905.java)| Easy |
+[945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [Solution](Solution945.java)| Medium |
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Solution](Solution946.java)| Medium |
+[950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Solution](Solution950.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -49,6 +51,7 @@ Title | Solution | Difficulty | Others
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy |
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
+[213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
@@ -92,35 +95,37 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
+[949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
+
 
 
 # <h3> Tree (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
-[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
-[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)| [Solution](Solution617.java)| Easy | 
-[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
-[513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |  
-[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)| [Solution](Solution637.java)| Easy |  
-[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [Solution](Solution104.java)| Easy |  
-[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |  
-[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [Solution](Solution94.java)| Medium |
-[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)| [Solution](Solution653.java)| Easy |
-[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)| [Solution](Solution606.java)| Easy |
-[655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
-[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |  
-[100. Same Tree](https://leetcode.com/problems/same-tree/description/)| [Solution](Solution100.java)| Easy |       
-[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |       
-[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
-[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
+[100. Same Tree](https://leetcode.com/problems/same-tree/description/)| [Solution](Solution100.java)| Easy |
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)| [Solution](Solution103.java)| Medium |
-[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [Solution](Solution104.java)| Easy |
 [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)| [Solution](Solution105.java)| Medium |  
-[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium | 
+[106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium |  
+[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
+[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
+[437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
+[513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |
+[515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |
+[538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
+[543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
+[572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
+[606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)| [Solution](Solution606.java)| Easy |
+[617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)| [Solution](Solution617.java)| Easy | 
+[637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)| [Solution](Solution637.java)| Easy | 
+[653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)| [Solution](Solution653.java)| Easy |
+[654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
+[655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
+[669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
+[814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
 
 
 # <h3> Hash Table 
@@ -146,35 +151,35 @@ Title | Solution | Difficulty | Others
 # <h3> Depth-first search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
-[690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)| [Solution](Solution690.java)| Easy | 
-[529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)| [Solution](Solution529.java)| Medium | 
-[547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)| [Solution](Solution547.java)| Medium | Remember to write an union-find solution!! 
-[733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
-[756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
+[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
 [394. Decode String](https://leetcode.com/problems/decode-string/description/)| [Solution](Solution394.java)| Medium | 
-[200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
 [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)| [Solution](Solution399.java)| Medium | 
-
+[529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)| [Solution](Solution529.java)| Medium | 
+[547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)| [Solution](Solution547.java)| Medium | Remember to write an union-find solution!!
+[690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)| [Solution](Solution690.java)| Easy | 
+[733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
+[756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
+[841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
+ 
 
 # <h3> Binary search (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy| 
-[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution349.java) | Easy | 
-[454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)| [Solution]( https://github.com/paulhong01/Leetcode_Java/blob/master/Solution454.java) | Medium | 
-[18. 4Sum](https://leetcode.com/problems/4sum/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution18.java)| Medium | I actually use the concept of "two pointer" to solve this problem
 [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution15.java)| Medium | I actually use the concept of "two pointer" to solve this problem
-[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution230.java) | Medium |
-[378. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Solution](Solution378.java) | Medium |
-[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
-[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
-[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
-[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
+[18. 4Sum](https://leetcode.com/problems/4sum/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution18.java)| Medium | I actually use the concept of "two pointer" to solve this problem
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
+[230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution230.java) | Medium |
+[240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
+[287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [Solution](Solution301.java) | Hard |
+[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution349.java) | Easy |
+[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
+[378. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Solution](Solution378.java) | Medium | 
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
+[454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)| [Solution]( https://github.com/paulhong01/Leetcode_Java/blob/master/Solution454.java) | Medium | 
+[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy| 
 
 
 # <h3> Two Pointers
