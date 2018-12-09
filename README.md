@@ -146,6 +146,8 @@ Title | Solution | Difficulty | Others
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
+[953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Solution](Solution953.java)| Easy | 
+[954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
 
 
 # <h3> Depth-first search (Sorted by Acceptance)
@@ -229,9 +231,11 @@ Title | Solution | Difficulty | Others
 # <h3> Greedy (Sorted by Acceptance)
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
-[402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
+[955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](Solution955.java) | Medium | 
+
 
 
 # <h3> Linked List 
