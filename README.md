@@ -95,6 +95,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
+[868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
 
 
@@ -126,6 +127,8 @@ Title | Solution | Difficulty | Others
 [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
 [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
+[938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Solution](Solution938.java)| Medium |
+[951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Solution](Solution951.java)| Medium |
 
 
 # <h3> Hash Table 
@@ -145,12 +148,13 @@ Title | Solution | Difficulty | Others
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
-[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy | 
+[811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy |
+[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| [Solution](Solution884.java)| Easy |  
 [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Solution](Solution953.java)| Easy | 
 [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
 
 
-# <h3> Depth-first search (Sorted by Acceptance)
+# <h3> Depth-first search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
@@ -162,10 +166,11 @@ Title | Solution | Difficulty | Others
 [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)| [Solution](Solution690.java)| Easy | 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
+[797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
  
 
-# <h3> Binary search (Sorted by Acceptance)
+# <h3> Binary search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution15.java)| Medium | I actually use the concept of "two pointer" to solve this problem
@@ -196,7 +201,7 @@ Title | Solution | Difficulty | Others
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
 
 
-# <h3> Breadth-first Search (Sorted by Acceptance)
+# <h3> Breadth-first Search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/description/) | [Solution](Solution101.java) | Easy |
@@ -209,7 +214,7 @@ Title | Solution | Difficulty | Others
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
 
 
- # <h3> Backtracking (Sorted by Acceptance)
+ # <h3> Backtracking 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](Solution17.java) | Medium | 
@@ -228,14 +233,14 @@ Title | Solution | Difficulty | Others
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
 
 
-# <h3> Greedy (Sorted by Acceptance)
+# <h3> Greedy 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
+[860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Solution](Solution860.java) | Easy | 
 [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](Solution955.java) | Medium | 
-
 
 
 # <h3> Linked List 
@@ -261,13 +266,13 @@ Title | Solution | Difficulty | Others
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
  
 
-# <h3> Bit Manipulation (Sorted by Acceptance)
+# <h3> Bit Manipulation 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
 
 
-# <h3> Divide and Conquer (Sorted by Acceptance)
+# <h3> Divide and Conquer 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](Solution215.java) | Medium |
