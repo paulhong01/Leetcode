@@ -100,7 +100,7 @@ Title | Solution | Difficulty | Others
 
 
 
-# <h3> Tree (Sorted by Acceptance)
+# <h3> Tree 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [Solution](Solution94.java)| Medium |
@@ -119,6 +119,8 @@ Title | Solution | Difficulty | Others
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
+[589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Solution](Solution589.java)| Easy |
+[590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Solution](Solution590.java)| Easy |
 [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)| [Solution](Solution606.java)| Easy |
 [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)| [Solution](Solution617.java)| Easy | 
 [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/)| [Solution](Solution637.java)| Easy | 
@@ -149,7 +151,8 @@ Title | Solution | Difficulty | Others
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy |
-[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| [Solution](Solution884.java)| Easy |  
+[884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| [Solution](Solution884.java)| Easy | 
+[930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)| [Solution](Solution930.java)| Medium |  
 [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Solution](Solution953.java)| Easy | 
 [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
 
@@ -219,6 +222,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/) | [Solution](Solution17.java) | Medium | 
 [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) | [Solution](Solution22.java) | Medium | The proof of complexity is cool !
+[37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [Solution](Solution37.java) | Hard |
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium |
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](Solution40.java) | Medium |
 [46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
