@@ -128,9 +128,12 @@ Title | Solution | Difficulty | Others
 [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
 [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
 [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
+[684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)| [Solution](Solution684.java)| Medium | Union find!
+[700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Solution](Solution700.java)| Easy |
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Solution](Solution938.java)| Medium |
 [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Solution](Solution951.java)| Medium |
+[958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Solution](Solution958.java)| Medium |
 
 
 # <h3> Hash Table 
@@ -155,6 +158,7 @@ Title | Solution | Difficulty | Others
 [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/)| [Solution](Solution930.java)| Medium |  
 [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Solution](Solution953.java)| Easy | 
 [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
+[957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)| [Solution](Solution957.java)| Medium | 
 
 
 # <h3> Depth-first search 
