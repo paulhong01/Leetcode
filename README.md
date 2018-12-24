@@ -88,6 +88,7 @@ Title | Solution | Difficulty | Others
 [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Solution](Solution804.java) | Easy |
 [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
 [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
+[893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](Solution893.java) | Easy |
 
 
 # <h3> Math 
@@ -96,6 +97,7 @@ Title | Solution | Difficulty | Others
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
+[939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
 
 
@@ -131,6 +133,7 @@ Title | Solution | Difficulty | Others
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)| [Solution](Solution684.java)| Medium | Union find!
 [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Solution](Solution700.java)| Easy |
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
+[872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| [Solution](Solution872.java)| Easy |
 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Solution](Solution938.java)| Medium |
 [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Solution](Solution951.java)| Medium |
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Solution](Solution958.java)| Medium |
@@ -175,6 +178,7 @@ Title | Solution | Difficulty | Others
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
+[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium | 
  
 
 # <h3> Binary search 

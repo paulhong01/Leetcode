@@ -1,4 +1,5 @@
 // Leetcode 684: Redundant Connection
+import java.util.*;
 
 class Solution684 {
     int MAX_EDGE_VAL = 1000;
