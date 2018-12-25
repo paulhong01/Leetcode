@@ -24,6 +24,7 @@ Title | Solution | Difficulty | Others
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
 [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/description/) | [Solution](Solution495.java) | Medium |
+[540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)| [Solution](Solution540.java)| Medium |
 [561. Array Partition I](https://leetcode.com/problems/array-partition-i/description/)| [Solution](Solution561.java)| Easy |
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
 [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| [Solution](Solution581.java)| Easy |
@@ -78,6 +79,8 @@ Title | Solution | Difficulty | Others
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
 [521. Longest Uncommon Subsequence I ](https://leetcode.com/problems/longest-uncommon-subsequence-i/description/) | [Solution](Solution521.java) | Easy |
 [537. Complex Number Multiplication](https://leetcode.com/problems/complex-number-multiplication/description/) | [Solution](Solution537.java) | Medium |
+[539. Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/) | [Solution](Solution539.java) | Medium |
+[541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [Solution](Solution541.java) | Easy |
 [553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
 [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
 [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
@@ -120,6 +123,7 @@ Title | Solution | Difficulty | Others
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
+[559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Solution](Solution559.java)| Easy |
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
 [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Solution](Solution589.java)| Easy |
 [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)| [Solution](Solution590.java)| Easy |
@@ -288,3 +292,9 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [Solution](Solution215.java) | Medium |
+
+
+# <h3> Stack 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
