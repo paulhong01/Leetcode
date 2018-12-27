@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Solution290",
+            "request": "launch",
+            "mainClass": "Solution290",
+            "projectName": "Leetcode_Java_93e2adb6"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch)",
             "request": "launch",
             "cwd": "${workspaceFolder}",

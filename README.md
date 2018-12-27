@@ -99,6 +99,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
+[292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
@@ -121,6 +122,7 @@ Title | Solution | Difficulty | Others
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
 [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |
+[530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)| [Solution](Solution530.java)| Easy |
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Solution](Solution559.java)| Easy |
@@ -150,7 +152,10 @@ Title | Solution | Difficulty | Others
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [Solution](Solution36.java)| Medium |
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
+[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Solution](Solution219java)| Easy |
+[220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [Solution](Solution220java)| Medium |
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/)| [Solution](Solution290.java)| Easy |
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
 [463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
@@ -286,6 +291,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
+[476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
 
 
 # <h3> Divide and Conquer 
@@ -298,3 +304,5 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
+[503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
+[556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
