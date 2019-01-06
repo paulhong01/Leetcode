@@ -37,6 +37,8 @@ Title | Solution | Difficulty | Others
 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [Solution](Solution945.java)| Medium |
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Solution](Solution946.java)| Medium |
 [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Solution](Solution950.java)| Medium |
+[962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)| [Solution](Solution962.java)| Medium |
+[969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Solution](Solution969.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -53,6 +55,7 @@ Title | Solution | Difficulty | Others
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
+[300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](Solution300.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
@@ -103,6 +106,7 @@ Title | Solution | Difficulty | Others
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
+[970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Solution](Solution970.java) | Easy |
 
 
 
@@ -143,6 +147,7 @@ Title | Solution | Difficulty | Others
 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Solution](Solution938.java)| Medium |
 [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Solution](Solution951.java)| Medium |
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Solution](Solution958.java)| Medium |
+[965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Solution](Solution965.java)| Easy |
 
 
 # <h3> Hash Table 
@@ -156,6 +161,7 @@ Title | Solution | Difficulty | Others
 [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [Solution](Solution220java)| Medium |
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/)| [Solution](Solution290.java)| Easy |
+[299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [Solution](Solution299.java)| Medium |
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
 [463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
@@ -171,6 +177,7 @@ Title | Solution | Difficulty | Others
 [953. Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Solution](Solution953.java)| Easy | 
 [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)| [Solution](Solution957.java)| Medium | 
+[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Solution](Solution961.java)| Medium | 
 
 
 # <h3> Depth-first search 
