@@ -19,6 +19,7 @@ Title | Solution | Difficulty | Others
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
+[243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Solution](Solution243.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
@@ -71,11 +72,13 @@ Title | Solution | Difficulty | Others
 [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [Solution](Solution10.java) | Hard |
 [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/) | [Solution](Solution12.java) | Medium |
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](Solution14.java) | Easy |
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
+[293. Flip Game](https://leetcode.com/problems/flip-game/) | [Solution](Solution293.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
 [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting//) | [Solution](Solution482.java) | Easy |
@@ -313,3 +316,9 @@ Title | Solution | Difficulty | Others
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
+
+
+# <h3> Heap 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
