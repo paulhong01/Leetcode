@@ -21,6 +21,7 @@ Title | Solution | Difficulty | Others
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
 [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Solution](Solution243.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
+[289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
@@ -40,6 +41,7 @@ Title | Solution | Difficulty | Others
 [950. Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/)| [Solution](Solution950.java)| Medium |
 [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)| [Solution](Solution962.java)| Medium |
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Solution](Solution969.java)| Medium |
+[976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Solution](Solution976.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -59,6 +61,7 @@ Title | Solution | Difficulty | Others
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](Solution300.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
+[334. Increasing Triplet Subsequence](https://leetcode.com/problems/product-of-array-except-self/description/https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](Solution334.java) | Medium | Use concept of 300
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
