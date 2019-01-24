@@ -77,6 +77,7 @@ Title | Solution | Difficulty | Others
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](Solution14.java) | Easy |
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
+[43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](Solution43.java) | Medium |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
@@ -109,6 +110,7 @@ Title | Solution | Difficulty | Others
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
 [292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
+[415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](Solution415.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
@@ -128,6 +130,7 @@ Title | Solution | Difficulty | Others
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
+[270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
 [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |
@@ -146,6 +149,7 @@ Title | Solution | Difficulty | Others
 [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
 [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
 [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
+[671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)| [Solution](Solution671.java)| Easy |
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)| [Solution](Solution684.java)| Medium | Union find!
 [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Solution](Solution700.java)| Easy |
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
@@ -163,6 +167,7 @@ Title | Solution | Difficulty | Others
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [Solution](Solution36.java)| Medium |
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
+[159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Solution](Solution159java)| Hard |
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Solution](Solution219java)| Easy |
 [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [Solution](Solution220java)| Medium |
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
@@ -256,6 +261,7 @@ Title | Solution | Difficulty | Others
 [39. Combination Sum](https://leetcode.com/problems/combination-sum/description/) | [Solution](Solution39.java) | Medium |
 [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/) | [Solution](Solution40.java) | Medium |
 [46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
+[47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](Solution47.java) | Medium |
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
@@ -303,6 +309,7 @@ Title | Solution | Difficulty | Others
 # <h3> Bit Manipulation 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](Solution201.java) | Medium |
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
 [476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
 
