@@ -13,6 +13,7 @@ Title | Solution | Difficulty | Others
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](Solution34.java) | Medium |
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
+[54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](Solution54.java) | Medium 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
@@ -42,6 +43,7 @@ Title | Solution | Difficulty | Others
 [962. Maximum Width Ramp](https://leetcode.com/problems/maximum-width-ramp/)| [Solution](Solution962.java)| Medium |
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Solution](Solution969.java)| Medium |
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Solution](Solution976.java)| Easy |
+[985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Solution](Solution985.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -237,6 +239,7 @@ Title | Solution | Difficulty | Others
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
+[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986java) | Medium |
 
 
 # <h3> Breadth-first Search 
@@ -263,7 +266,7 @@ Title | Solution | Difficulty | Others
 [46. Permutations](https://leetcode.com/problems/permutations/description/) | [Solution](Solution46.java) | Medium |
 [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](Solution47.java) | Medium |
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
-[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard | 
+[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard |[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](Solution60.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
