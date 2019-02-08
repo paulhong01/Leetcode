@@ -12,6 +12,7 @@ Title | Solution | Difficulty | Others
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](Solution34.java) | Medium |
+[41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution](Solution41.java) | Hard |
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](Solution54.java) | Medium 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
@@ -67,6 +68,7 @@ Title | Solution | Difficulty | Others
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
+[983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
 
 
 # <h3> String 
@@ -160,6 +162,7 @@ Title | Solution | Difficulty | Others
 [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/)| [Solution](Solution951.java)| Medium |
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Solution](Solution958.java)| Medium |
 [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Solution](Solution965.java)| Easy |
+[988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)| [Solution](Solution988.java)| Medium |
 
 
 # <h3> Hash Table 
@@ -191,6 +194,7 @@ Title | Solution | Difficulty | Others
 [954. Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/)| [Solution](Solution954.java)| Medium | 
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)| [Solution](Solution957.java)| Medium | 
 [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Solution](Solution961.java)| Medium | 
+[987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Solution](Solution987.java)| Medium | 
 
 
 # <h3> Depth-first search 
@@ -284,6 +288,7 @@ Title | Solution | Difficulty | Others
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
 [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Solution](Solution860.java) | Easy | 
 [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](Solution955.java) | Medium | 
+[984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Solution](Solution984.java) | Easy | 
 
 
 # <h3> Linked List 
@@ -294,6 +299,7 @@ Title | Solution | Difficulty | Others
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](Solution24.java) | Medium |
+[61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](Solution61.java) | Medium |
 [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
