@@ -22,6 +22,7 @@ Title | Solution | Difficulty | Others
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
 [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Solution](Solution243.java) | Easy |
+[268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](Solution268.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
@@ -163,6 +164,7 @@ Title | Solution | Difficulty | Others
 [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| [Solution](Solution958.java)| Medium |
 [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Solution](Solution965.java)| Easy |
 [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)| [Solution](Solution988.java)| Medium |
+[993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| [Solution](Solution993.java)| Easy |
 
 
 # <h3> Hash Table 
@@ -289,6 +291,7 @@ Title | Solution | Difficulty | Others
 [860. Lemonade Change](https://leetcode.com/problems/lemonade-change/) | [Solution](Solution860.java) | Easy | 
 [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](Solution955.java) | Medium | 
 [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Solution](Solution984.java) | Easy | 
+[995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Solution](Solution995.java) | Hard | 
 
 
 # <h3> Linked List 
@@ -299,6 +302,7 @@ Title | Solution | Difficulty | Others
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | [Solution](Solution21.java) | Easy |
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) | [Solution](Solution23.java) | Hard |
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/) | [Solution](Solution24.java) | Medium |
+[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Solution](Solution25.java) | Hard |
 [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](Solution61.java) | Medium |
 [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
