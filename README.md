@@ -16,6 +16,7 @@ Title | Solution | Difficulty | Others
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](Solution54.java) | Medium 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](Solution73.java) | Medium |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
@@ -54,6 +55,7 @@ Title | Solution | Difficulty | Others
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [Solution](Solution42.java) | Hard |
 [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/) | [Solution](Solution53.java) | Easy |
 [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) | [Solution](Solution62.java) | Medium |
+[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Solution](Solution63.java) | Medium |
 [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) | [Solution](Solution64.java) | Medium |
 [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [Solution](Solution70.java) | Easy |
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
@@ -114,6 +116,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [Solution](Solution7.java) | Easy |
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
+[50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](Solution50.java) | Medium |
 [292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
 [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](Solution415.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |

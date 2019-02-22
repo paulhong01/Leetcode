@@ -3,6 +3,7 @@ import java.util.*;
 
 class Solution993 {
     public boolean isCousins(TreeNode root, int x, int y) {
+        // BFS: TC:O(n), SC:O(n)
         Map<Integer, List> map = new HashMap();
         Queue<TreeNode> queue = new LinkedList();
         if (root != null) {
