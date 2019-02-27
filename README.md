@@ -47,6 +47,7 @@ Title | Solution | Difficulty | Others
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Solution](Solution969.java)| Medium |
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Solution](Solution976.java)| Easy |
 [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Solution](Solution985.java)| Easy |
+[999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Solution](Solution999.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -137,6 +138,7 @@ Title | Solution | Difficulty | Others
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium |  
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
+[222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
@@ -168,6 +170,7 @@ Title | Solution | Difficulty | Others
 [965. Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Solution](Solution965.java)| Easy |
 [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)| [Solution](Solution988.java)| Medium |
 [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| [Solution](Solution993.java)| Easy |
+[998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Solution](Solution998.java)| Easy |
 
 
 # <h3> Hash Table 
@@ -217,6 +220,7 @@ Title | Solution | Difficulty | Others
 [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium | 
+[997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Solution](Solution997.java)| Easy | 
  
 
 # <h3> Binary search 
