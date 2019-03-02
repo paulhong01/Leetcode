@@ -141,8 +141,10 @@ Title | Solution | Difficulty | Others
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
+[285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)| [Solution](Solution285.java)| Medium |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
+[450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Solution](Solution450.java)| Medium |
 [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)| [Solution](Solution530.java)| Easy |
@@ -162,6 +164,7 @@ Title | Solution | Difficulty | Others
 [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)| [Solution](Solution671.java)| Easy |
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)| [Solution](Solution684.java)| Medium | Union find!
 [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Solution](Solution700.java)| Easy |
+[776. Split BST](https://leetcode.com/problems/split-bst/)| [Solution](Solution776.java)| Medium |
 [814. Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/description/)| [Solution](Solution814.java)| Medium | 
 [872. Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/)| [Solution](Solution872.java)| Easy |
 [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)| [Solution](Solution938.java)| Medium |
@@ -252,6 +255,7 @@ Title | Solution | Difficulty | Others
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](Solution977java) | Easy |
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986java) | Medium |
 
 
