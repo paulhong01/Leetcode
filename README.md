@@ -16,6 +16,7 @@ Title | Solution | Difficulty | Others
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](Solution54.java) | Medium 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](Solution59.java) | Medium |
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](Solution73.java) | Medium |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
@@ -92,6 +93,7 @@ Title | Solution | Difficulty | Others
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
 [293. Flip Game](https://leetcode.com/problems/flip-game/) | [Solution](Solution293.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
+[383. Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](Solution383.java) | Easy |
 [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/) | [Solution](Solution412.java) | Easy |
 [482. License Key Formatting](https://leetcode.com/problems/license-key-formatting//) | [Solution](Solution482.java) | Easy |
 [520. Detect Capital](https://leetcode.com/problems/detect-capital/description/) | [Solution](Solution520.java) | Easy |
@@ -253,6 +255,7 @@ Title | Solution | Difficulty | Others
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
+[487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Solution](Solution487.java) | Medium |
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](Solution977java) | Easy |
@@ -285,6 +288,7 @@ Title | Solution | Difficulty | Others
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard |[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](Solution60.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
+[79. Word Search](https://leetcode.com/problems/word-search/) | [Solution](Solution79.java) | Medium | 
 [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
