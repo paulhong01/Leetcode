@@ -9,6 +9,7 @@ Title | Solution | Difficulty | Others
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [Solution](Solution4.java) | Hard |
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [Solution](Solution9.java) | Easy |
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Solution](Solution11.java) | Medium |
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](Solution26.java) | Easy |
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/) | [Solution](Solution27.java) | Easy |
 [31. Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Solution](Solution31.java) | Medium |
 [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Solution](Solution34.java) | Medium |
@@ -16,9 +17,11 @@ Title | Solution | Difficulty | Others
 [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [Solution](Solution48.java) | Medium |
 [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Solution](Solution54.java) | Medium 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Solution](Solution56.java) | Medium |
+[57. Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](Solution57.java) | Hard |
 [59. Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution](Solution59.java) | Medium |
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](Solution73.java) | Medium |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
+[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Solution80.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
@@ -287,9 +290,11 @@ Title | Solution | Difficulty | Others
 [47. Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution](Solution47.java) | Medium |
 [51. N-Queens](https://leetcode.com/problems/n-queens/description/) | [Solution](Solution51.java) | Hard | 
 [52. N-Queens II](https://leetcode.com/problems/n-queens-ii/description/) | [Solution](Solution52.java) | Hard |[60. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) | [Solution](Solution60.java) | Medium | 
+[77. Combinations](https://leetcode.com/problems/combinations/) | [Solution](Solution77.java) | Medium | 
 [78. Subsets](https://leetcode.com/problems/subsets/description/) | [Solution](Solution78.java) | Medium | 
 [79. Word Search](https://leetcode.com/problems/word-search/) | [Solution](Solution79.java) | Medium | 
 [89. Gray Code](https://leetcode.com/problems/gray-code/description/) | [Solution](Solution89.java) | Medium | 
+[93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](Solution93.java) | Medium | 
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium |
