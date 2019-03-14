@@ -22,6 +22,7 @@ Title | Solution | Difficulty | Others
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Solution](Solution73.java) | Medium |
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Solution80.java) | Medium |
+[81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](Solution81.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
@@ -89,6 +90,7 @@ Title | Solution | Difficulty | Others
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | [Solution](Solution13.java) | Easy |
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](Solution14.java) | Easy |
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
+[32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](Solution32.java) | Hard |
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](Solution43.java) | Medium |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
@@ -179,6 +181,7 @@ Title | Solution | Difficulty | Others
 [988. Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/)| [Solution](Solution988.java)| Medium |
 [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| [Solution](Solution993.java)| Easy |
 [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Solution](Solution998.java)| Easy |
+[1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Solution](Solution1008.java)| Medium |
 
 
 # <h3> Hash Table 
