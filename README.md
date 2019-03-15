@@ -23,6 +23,7 @@ Title | Solution | Difficulty | Others
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Solution80.java) | Medium |
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](Solution81.java) | Medium |
+[90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](Solution90.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
@@ -52,6 +53,7 @@ Title | Solution | Difficulty | Others
 [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)| [Solution](Solution969.java)| Medium |
 [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/)| [Solution](Solution976.java)| Easy |
 [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Solution](Solution985.java)| Easy |
+[989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Solution](Solution989.java)| Easy |
 [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Solution](Solution999.java)| Easy |
 
 
@@ -76,6 +78,7 @@ Title | Solution | Difficulty | Others
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/product-of-array-except-self/description/https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](Solution334.java) | Medium | Use concept of 300
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
+[583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](Solution583.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
 
@@ -94,6 +97,7 @@ Title | Solution | Difficulty | Others
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](Solution43.java) | Medium |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
+[161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Solution](Solution161.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
 [293. Flip Game](https://leetcode.com/problems/flip-game/) | [Solution](Solution293.java) | Easy |
@@ -131,7 +135,8 @@ Title | Solution | Difficulty | Others
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
 [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Solution](Solution970.java) | Easy |
-
+[991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](Solution991.java) | Medium |
+[1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Solution](Solution1006.java) | Medium |
 
 
 # <h3> Tree 
@@ -230,7 +235,8 @@ Title | Solution | Difficulty | Others
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
-[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium | 
+[959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium |
+[990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)| [Solution](Solution990.java)| Medium | Union find!
 [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Solution](Solution997.java)| Easy | 
  
 
@@ -315,6 +321,8 @@ Title | Solution | Difficulty | Others
 [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/) | [Solution](Solution955.java) | Medium | 
 [984. String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [Solution](Solution984.java) | Easy | 
 [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Solution](Solution995.java) | Hard | 
+[1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](Solution1005.java) | Easy | 
+[1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution](Solution1007.java) | Medium | 
 
 
 # <h3> Linked List 
