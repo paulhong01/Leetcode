@@ -255,8 +255,11 @@ Title | Solution | Difficulty | Others
 [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Solution](Solution350.java) | Easy |
 [378. Kth Smallest Element in a Sorted Matrix ](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | [Solution](Solution378.java) | Medium | 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
+[410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](Solution410.java) | Hard |
 [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)| [Solution]( https://github.com/paulhong01/Leetcode_Java/blob/master/Solution454.java) | Medium | 
-[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy| 
+[774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution774.java)| Hard | 
+[852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy | 
+[875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution875.java)| Medium |
 
 
 # <h3> Two Pointers
