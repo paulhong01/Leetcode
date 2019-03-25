@@ -55,6 +55,7 @@ Title | Solution | Difficulty | Others
 [985. Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Solution](Solution985.java)| Easy |
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Solution](Solution989.java)| Easy |
 [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Solution](Solution999.java)| Easy |
+[1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)| [Solution](Solution1021.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -138,6 +139,7 @@ Title | Solution | Difficulty | Others
 [970. Powerful Integers](https://leetcode.com/problems/powerful-integers/) | [Solution](Solution970.java) | Easy |
 [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](Solution991.java) | Medium |
 [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Solution](Solution1006.java) | Medium |
+[1022. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](Solution1022.java) | Medium |
 
 
 # <h3> Tree 
@@ -153,6 +155,7 @@ Title | Solution | Difficulty | Others
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Solution](Solution113.java)| Medium |
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](Solution114.java)| Medium |
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
@@ -263,6 +266,7 @@ Title | Solution | Difficulty | Others
 [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution774.java)| Hard | 
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy | 
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution875.java)| Medium |
+[1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](Solution1014.java)| Medium |
 
 
 # <h3> Two Pointers
