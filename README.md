@@ -23,6 +23,7 @@ Title | Solution | Difficulty | Others
 [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/) | [Solution](Solution75.java) | Medium |
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Solution80.java) | Medium |
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](Solution81.java) | Medium |
+[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](Solution122.java) | Easy |
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](Solution90.java) | Medium |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
@@ -70,7 +71,8 @@ Title | Solution | Difficulty | Others
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](Solution72.java) | Medium |
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
-[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](Solution121.java) | Easy |
+[123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](Solution123.java) | Hard | 
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
@@ -156,6 +158,8 @@ Title | Solution | Difficulty | Others
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Solution](Solution113.java)| Medium |
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](Solution114.java)| Medium |
+[116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Solution](Solution116.java)| Medium |
+[117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Solution](Solution117.java)| Medium |
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
