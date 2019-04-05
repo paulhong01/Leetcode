@@ -71,6 +71,7 @@ Title | Solution | Difficulty | Others
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/) | [Solution](Solution72.java) | Medium |
 [91. Decode Ways](https://leetcode.com/problems/decode-ways/description/) | [Solution](Solution91.java) | Medium |
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/) | [Solution](Solution96.java) | Medium |
+[120. Triangle](https://leetcode.com/problems/triangle/) | [Solution](Solution120.java) | Medium |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](Solution121.java) | Easy |
 [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](Solution123.java) | Hard | 
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
@@ -277,8 +278,10 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [Solution](Solution16.java) | Medium |
+[76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](Solution76.java) | Hard |
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](Solution88.java) | Easy |
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
+[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](Solution209.java) | Medium |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
 [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Solution](Solution487.java) | Medium |
@@ -358,6 +361,7 @@ Title | Solution | Difficulty | Others
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
+[430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](Solution430.java) | Medium |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium |
