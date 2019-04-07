@@ -126,6 +126,8 @@ Title | Solution | Difficulty | Others
 [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/) | [Solution](Solution819.java) | Easy |
 [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/) | [Solution](Solution824.java) | Easy |
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](Solution893.java) | Easy |
+[1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](Solution1021.java) | Easy |
+[1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Solution](Solution1023.java) | Medium |
 
 
 # <h3> Math 
@@ -198,6 +200,7 @@ Title | Solution | Difficulty | Others
 [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)| [Solution](Solution993.java)| Easy |
 [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Solution](Solution998.java)| Easy |
 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Solution](Solution1008.java)| Medium |
+[1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Solution](Solution1022.java)| Easy |
 
 
 # <h3> Hash Table 
@@ -388,6 +391,7 @@ Title | Solution | Difficulty | Others
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
+[1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | [Solution](Solution1024.java) | Medium |
 
 
 # <h3> Heap 

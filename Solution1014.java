@@ -1,37 +1,21 @@
-// Leetcode 1014: Capacity To Ship Packages Within D Days
+// Leetcode 1014: Best Sightseeing Pair
 import java.util.*;
 
 class Solution1014 {
-    public int shipWithinDays(int[] weights, int D) {
-        // Binary search: TC:O(Nlog(W)), SC:O(1)
-        int l = weights[0], r = weights[0];
-        for (int i = 1; i < weights.length; i++) {
-            if (weights[i] > l) l = weights[i];
-            r += weights[i];
-        }
-        
-        int result = r;
-        while (l <= r) {
-            int m = l + (r - l)/2;
-            int count = 1, sum = 0;
-            for (int w: weights) {
-                if (sum + w > m) {
-                    count++;
-                    sum = w;
-                } else {
-                    sum += w;
-                }
+    public int maxScoreSightseeingPair(int[] A) {
+        int result = Integer.MIN_VALUE;
+        for (int i = 1; i < A.length; i++) {
+            int tempresult = Integer.MIN_VALUE;
+            System.out.println(i);
+            for (int j = i; j < A.length; j++) {
+                tempresult = Math.max(A[j] + A[j-i] - i, tempresult);
             }
-            // System.out.printf("%d %d\n", m, count);
-            if (count <= D) {
-                result = Math.min(result, m);
-                r = m - 1;
+            if (tempresult < result) {
+                break;
             } else {
-                l = m + 1;
+                result = tempresult;
             }
-            
         }
-        
         return result;
     }
 }

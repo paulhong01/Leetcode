@@ -1,15 +1,25 @@
-// Leetcode 1022: Smallest Integer Divisible by K
+// Leetcode 1022: Sum of Root To Leaf Binary Numbers
 import java.util.*;
 
 class Solution1022 {
-    public int smallestRepunitDivByK(int K) {
-        // TC:O(1), SC:O(1)
-        if (K%2 == 0 || K%5 == 0)    return -1;
-        int r = 0;
-        for (int i = 1; i <= K; i++) {
-            r = (r*10+1)%K;
-            if (r == 0) return i;
-        }
-        return -1;
+    long result = 0;
+    int mod = (int)(Math.pow(10, 9)) + 7;
+    public int sumRootToLeaf(TreeNode root) {
+        System.out.println(mod);
+        traversal(root, 0);
+        return (int)result;
     }
+    
+    private void traversal(TreeNode cur, long cursum) {
+        if (cur == null)    return;
+        else if (cur.left == null && cur.right == null) {
+            result = (result+cursum+cur.val)%mod;
+            return;
+        }
+        
+        cursum = (cursum+cur.val)%mod;
+        traversal(cur.left, cursum*2);
+        traversal(cur.right, cursum*2);
+    }
+    
 }
