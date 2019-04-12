@@ -163,6 +163,7 @@ Title | Solution | Difficulty | Others
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](Solution114.java)| Medium |
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Solution](Solution116.java)| Medium |
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Solution](Solution117.java)| Medium |
+[124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Solution](Solution124.java)| Hard |
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
@@ -360,6 +361,7 @@ Title | Solution | Difficulty | Others
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.) | [Solution](Solution142.java) | Medium |
+[143. Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution](Solution143.java) | Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/) | [Solution](Solution148.java) | Medium |
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
