@@ -57,6 +57,7 @@ Title | Solution | Difficulty | Others
 [989. Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/)| [Solution](Solution989.java)| Easy |
 [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Solution](Solution999.java)| Easy |
 [1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)| [Solution](Solution1021.java)| Medium |
+[1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)| [Solution](Solution1031.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -264,6 +265,7 @@ Title | Solution | Difficulty | Others
 [18. 4Sum](https://leetcode.com/problems/4sum/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution18.java)| Medium | I actually use the concept of "two pointer" to solve this problem
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
+[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](Solution153.java) | Medium |
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution230.java) | Medium |
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
