@@ -243,6 +243,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [Solution](Solution130.java)| Medium | 
+[133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [Solution](Solution133.java)| Medium |
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
 [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/)| [Solution](Solution337.java)| Medium | 
 [394. Decode String](https://leetcode.com/problems/decode-string/description/)| [Solution](Solution394.java)| Medium | 
@@ -269,6 +270,7 @@ Title | Solution | Difficulty | Others
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](Solution153.java) | Medium |
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution230.java) | Medium |
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
+[278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](Solution278.java) | Easy |
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [Solution](Solution287.java) | Medium |
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/description/) | [Solution](Solution301.java) | Hard |
 [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution349.java) | Easy |
@@ -341,6 +343,7 @@ Title | Solution | Difficulty | Others
 # <h3> Greedy 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[134. Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](Solution134.java) | Medium | 
 [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/) | [Solution](Solution402.java) | Medium | 
 [406. Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/description/) | [Solution](Solution406.java) | Medium | 
 [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/description/) | [Solution](Solution621.java) | Medium | 
