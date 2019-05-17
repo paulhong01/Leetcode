@@ -166,6 +166,8 @@ Title | Solution | Difficulty | Others
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Solution](Solution117.java)| Medium |
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| [Solution](Solution124.java)| Hard |
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Solution](Solution129.java)| Medium |
+[144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [Solution](Solution144.java)| Medium |
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Solution](Solution145.java)| Medium |
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
