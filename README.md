@@ -403,6 +403,7 @@ Title | Solution | Difficulty | Others
 # <h3> Stack 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](Solution150.java) | Medium |
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
