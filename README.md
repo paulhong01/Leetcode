@@ -79,6 +79,8 @@ Title | Solution | Difficulty | Others
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
+[256. Paint House](https://leetcode.com/problems/paint-house/) | [Solution](Solution256.java) | Easy |
+[265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Solution](Solution265.java) | Hard |
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](Solution300.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
@@ -223,6 +225,7 @@ Title | Solution | Difficulty | Others
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/)| [Solution](Solution290.java)| Easy |
 [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [Solution](Solution299.java)| Medium |
+[340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Solution](Solution340.java)| Hard |
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
 [463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
@@ -240,6 +243,7 @@ Title | Solution | Difficulty | Others
 [957. Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/)| [Solution](Solution957.java)| Medium | 
 [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Solution](Solution961.java)| Medium | 
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Solution](Solution987.java)| Medium | 
+[992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| [Solution](Solution992.java)| Hard | 
 
 
 # <h3> Depth-first search 
