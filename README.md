@@ -27,6 +27,7 @@ Title | Solution | Difficulty | Others
 [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](Solution122.java) | Easy |
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](Solution128.java) | Hard |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
+[163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](Solution163.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
@@ -220,6 +221,7 @@ Title | Solution | Difficulty | Others
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
 [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Solution](Solution159java)| Hard |
+[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [Solution](Solution166java)| Medium |
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Solution](Solution219java)| Easy |
 [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [Solution](Solution220java)| Medium |
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
@@ -275,6 +277,7 @@ Title | Solution | Difficulty | Others
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](Solution153.java) | Medium |
+[162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](Solution162.java) | Medium |
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)|[Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution230.java) | Medium |
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [Solution](Solution240.java) | Medium |
 [278. First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](Solution278.java) | Easy |
