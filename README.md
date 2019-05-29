@@ -348,6 +348,7 @@ Title | Solution | Difficulty | Others
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium |
 [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium | 
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
+[980. Unique Paths III](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution980.java) | Hard |
 
 
 # <h3> Greedy 
@@ -377,6 +378,7 @@ Title | Solution | Difficulty | Others
 [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](Solution61.java) | Medium |
 [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](Solution92.java) | Medium |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
 [142. Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/discuss/44774/Java-O(1)-space-solution-with-detailed-explanation.) | [Solution](Solution142.java) | Medium |
