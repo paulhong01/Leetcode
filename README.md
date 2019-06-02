@@ -60,6 +60,7 @@ Title | Solution | Difficulty | Others
 [999. Available Captures for Rook](https://leetcode.com/problems/available-captures-for-rook/)| [Solution](Solution999.java)| Easy |
 [1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)| [Solution](Solution1021.java)| Medium |
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)| [Solution](Solution1031.java)| Medium |
+[1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Solution](Solution1074.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -275,6 +276,7 @@ Title | Solution | Difficulty | Others
 [15. 3Sum](https://leetcode.com/problems/3sum/description/) | [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution15.java)| Medium | I actually use the concept of "two pointer" to solve this problem
 [18. 4Sum](https://leetcode.com/problems/4sum/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution18.java)| Medium | I actually use the concept of "two pointer" to solve this problem
 [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Solution](Solution33.java) | Medium |
+[34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [Solution](Solution34.java) | Medium |
 [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) | [Solution](Solution74.java) | Medium |
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution](Solution153.java) | Medium |
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[Solution](Solution162.java) | Medium |
@@ -378,6 +380,7 @@ Title | Solution | Difficulty | Others
 [61. Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution](Solution61.java) | Medium |
 [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](Solution82.java) | Medium |
 [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) | [Solution](Solution83.java) | Easy |
+[86. Partition List](https://leetcode.com/problems/partition-list/) | [Solution](Solution86.java) | Medium |
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](Solution92.java) | Medium |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | [Solution](Solution138.java) | Medium |
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Solution](Solution141.java) | Easy |
