@@ -35,6 +35,7 @@ Title | Solution | Difficulty | Others
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](Solution268.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
+[305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Solution](Solution305.java) | Hard | Union Find!
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
@@ -221,8 +222,10 @@ Title | Solution | Difficulty | Others
 [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)| [Solution](Solution36.java)| Medium |
 [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)| [Solution](Solution49.java)| Medium |
 [136. Single Number](https://leetcode.com/problems/single-number/description/)| [Solution](Solution136.java)| Easy | 
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/)| [Solution](Solution146.java)| Medium | 
 [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/)| [Solution](Solution159java)| Hard |
-[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [Solution](Solution166java)| Medium |
+[166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/)| [Solution](Solution166.java)| Medium |
+[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [Solution](Solution205.java)| Easy |
 [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)| [Solution](Solution219java)| Easy |
 [220. Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)| [Solution](Solution220java)| Medium |
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
