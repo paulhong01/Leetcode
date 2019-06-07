@@ -82,6 +82,7 @@ Title | Solution | Difficulty | Others
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
+[221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [Solution](Solution221.java) | Medium |
 [256. Paint House](https://leetcode.com/problems/paint-house/) | [Solution](Solution256.java) | Easy |
 [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Solution](Solution265.java) | Hard |
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](Solution300.java) | Medium |
@@ -111,6 +112,7 @@ Title | Solution | Difficulty | Others
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Solution](Solution161.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
+[186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Solution](Solution186.java) | Medium |
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
 [293. Flip Game](https://leetcode.com/problems/flip-game/) | [Solution](Solution293.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
