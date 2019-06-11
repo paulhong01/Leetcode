@@ -423,11 +423,12 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](Solution150.java) | Medium |
 [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](Solution224.java) | Hard |
+[316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution](Solution316.java) | Hard |
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | [Solution](Solution1024.java) | Medium |
-
+[1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution](Solution1081.java) | Medium |
 
 # <h3> Heap 
 Title | Solution | Difficulty | Others
