@@ -29,6 +29,7 @@ Title | Solution | Difficulty | Others
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](Solution163.java) | Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/) | [Solution](Solution169.java) | Easy |
+[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution](Solution228.java) | Medium |
 [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution](Solution229.java) | Medium |
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution238.java) | Medium |
 [243. Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) | [Solution](Solution243.java) | Easy |
@@ -113,6 +114,7 @@ Title | Solution | Difficulty | Others
 [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Solution](Solution161.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
 [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Solution](Solution186.java) | Medium |
+[227. Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii//) | [Solution](Solution227.java) | Medium |
 [273. Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Solution](Solution273.java) | Hard |
 [293. Flip Game](https://leetcode.com/problems/flip-game/) | [Solution](Solution293.java) | Easy |
 [344. Reverse String](https://leetcode.com/problems/reverse-string/description/) | [Solution](Solution344.java) | Easy |
@@ -179,6 +181,7 @@ Title | Solution | Difficulty | Others
 [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [Solution](Solution145.java)| Medium |
 [222. Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Solution](Solution222.java)| Medium |  
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)| [Solution](Solution226.java)| Easy |
+[235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Solution](Solution235.java)| Easy |
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
 [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)| [Solution](Solution285.java)| Medium |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
@@ -423,6 +426,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](Solution150.java) | Medium |
 [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](Solution224.java) | Hard |
+[225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](Solution225.java) | Easy |
 [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution](Solution316.java) | Hard |
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
@@ -433,4 +437,5 @@ Title | Solution | Difficulty | Others
 # <h3> Heap 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](Solution239.java) | Hard |
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
