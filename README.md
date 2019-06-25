@@ -151,6 +151,7 @@ Title | Solution | Difficulty | Others
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) | [Solution](Solution8.java) | Medium |
 [50. Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution](Solution50.java) | Medium |
 [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Solution](Solution223.java) | Medium |
+[263. Ugly Number](https://leetcode.com/problems/ugly-number/) | [Solution](Solution263.java) | Easy |
 [292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
 [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](Solution415.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
