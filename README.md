@@ -98,6 +98,7 @@ Title | Solution | Difficulty | Others
 [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](Solution583.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
+[1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Solution](Solution1105.java) | Medium |
 
 
 # <h3> String 
@@ -438,6 +439,7 @@ Title | Solution | Difficulty | Others
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | [Solution](Solution1024.java) | Medium |
 [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution](Solution1081.java) | Medium |
+[1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Solution](Solution1106.java) | Hard |
 
 # <h3> Heap 
 Title | Solution | Difficulty | Others
