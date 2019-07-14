@@ -66,6 +66,7 @@ Title | Solution | Difficulty | Others
 [1021. Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/)| [Solution](Solution1021.java)| Medium |
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)| [Solution](Solution1031.java)| Medium |
 [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Solution](Solution1074.java)| Medium |
+[1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Solution](Solution1122.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -337,7 +338,7 @@ Title | Solution | Difficulty | Others
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy |
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Solution](Solution127.java) | Medium |
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
-[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | Not finish!
+[286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | 
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
 
