@@ -226,6 +226,7 @@ Title | Solution | Difficulty | Others
 [998. Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/)| [Solution](Solution998.java)| Easy |
 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Solution](Solution1008.java)| Medium |
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Solution](Solution1022.java)| Easy |
+[1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)| [Solution](Solution1129.java)| Medium |
 
 
 # <h3> Hash Table 

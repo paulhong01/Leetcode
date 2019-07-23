@@ -3,7 +3,7 @@ import java.util.*;
 
 class Solution1122 {
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
-        // TC:O(1), SC:O(M+N)
+        // TC:O(1), SC:O(M+N), M = arr1.length, N = arr2.length
         int[] map = new int[1001];
         for (int n : arr1) {
             map[n]++;
