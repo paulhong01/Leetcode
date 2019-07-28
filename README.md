@@ -24,7 +24,8 @@ Title | Solution | Difficulty | Others
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Solution80.java) | Medium |
 [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution](Solution81.java) | Medium |
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](Solution90.java) | Medium |
-[122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution](Solution122.java) | Easy |
+[90. Subsets II](https://leetcode.com/problems/subsets-ii/) | [Solution](Solution90.java) | Medium |
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution](Solution118.java) | Easy |
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Solution](Solution128.java) | Hard |
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Solution](Solution152.java) | Medium |
 [163. Missing Ranges](https://leetcode.com/problems/missing-ranges/) | [Solution](Solution163.java) | Medium |
@@ -177,6 +178,7 @@ Title | Solution | Difficulty | Others
 [106. Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/)| [Solution](Solution106.java)| Medium |  
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)| [Solution](Solution108.java)| Easy |    
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)| [Solution](Solution109.java)| Medium |
+[112. Path Sum](https://leetcode.com/problems/path-sum/)| [Solution](Solution112.java)| Easy |
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Solution](Solution113.java)| Medium |
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](Solution114.java)| Medium |
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Solution](Solution116.java)| Medium |
