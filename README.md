@@ -37,6 +37,7 @@ Title | Solution | Difficulty | Others
 [245. Shortest Word Distance III](https://leetcode.com/problems/shortest-word-distance-iii/) | [Solution](Solution245.java) | Medium |
 [252. Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](Solution252.java) | Easy |
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](Solution253.java) | Medium |
+[259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [Solution](Solution259.java) | Medium |
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](Solution268.java) | Easy |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
