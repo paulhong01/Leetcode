@@ -39,6 +39,8 @@ Title | Solution | Difficulty | Others
 [253. Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [Solution](Solution253.java) | Medium |
 [259. 3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) | [Solution](Solution259.java) | Medium |
 [268. Missing Number](https://leetcode.com/problems/missing-number/) | [Solution](Solution268.java) | Easy |
+[277. Find the Celebrity](https://leetcode.com/problems/find-the-celebrity/) | [Solution](Solution277.java) | Medium |
+[280. Wiggle Sort](https://leetcode.com/problems/wiggle-sort/) | [Solution](Solution280.java) | Medium |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
 [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Solution](Solution305.java) | Hard | Union Find!
