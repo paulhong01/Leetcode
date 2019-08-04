@@ -251,6 +251,7 @@ Title | Solution | Difficulty | Others
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)| [Solution](Solution242.java)| Easy |
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/)| [Solution](Solution290.java)| Easy |
 [299. Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [Solution](Solution299.java)| Medium |
+[336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| [Solution](Solution336.java)| Hard |
 [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Solution](Solution340.java)| Hard |
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
