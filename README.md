@@ -94,6 +94,7 @@ Title | Solution | Difficulty | Others
 [221. Maximal Square](https://leetcode.com/problems/maximal-square/) | [Solution](Solution221.java) | Medium |
 [256. Paint House](https://leetcode.com/problems/paint-house/) | [Solution](Solution256.java) | Easy |
 [265. Paint House II](https://leetcode.com/problems/paint-house-ii/) | [Solution](Solution265.java) | Hard |
+[279. Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Solution](Solution279.java) | Medium |
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [Solution](Solution300.java) | Medium |
 [309. Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking)) | [Solution](Solution309.java) | Medium |
 [312. Burst Balloons](https://leetcode.com/problems/burst-balloons/discuss/) | [Solution](Solution312.java) | Hard |
@@ -160,6 +161,7 @@ Title | Solution | Difficulty | Others
 [223. Rectangle Area](https://leetcode.com/problems/rectangle-area/) | [Solution](Solution223.java) | Medium |
 [263. Ugly Number](https://leetcode.com/problems/ugly-number/) | [Solution](Solution263.java) | Easy |
 [292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
+[326. Power of Three](https://leetcode.com/problems/power-of-three/) | [Solution](Solution326.java) | Easy |
 [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](Solution415.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
