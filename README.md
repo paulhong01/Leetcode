@@ -441,6 +441,8 @@ Title | Solution | Difficulty | Others
 # <h3> Stack 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](Solution84.java) | Hard |
+[85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | [Solution](Solution85.java) | Hard |
 [150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](Solution150.java) | Medium |
 [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/) | [Solution](Solution224.java) | Hard |
 [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution](Solution225.java) | Easy |
