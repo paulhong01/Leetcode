@@ -278,6 +278,7 @@ Title | Solution | Difficulty | Others
 # <h3> Depth-first search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[126. Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)| [Solution](Solution126.java)| Hard | 
 [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [Solution](Solution130.java)| Medium | 
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [Solution](Solution133.java)| Medium |
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)| [Solution](Solution200.java)| Medium | 
@@ -329,6 +330,7 @@ Title | Solution | Difficulty | Others
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) | [Solution](Solution16.java) | Medium |
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [Solution](Solution76.java) | Hard |
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Solution](Solution88.java) | Easy |
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](Solution125.java) | Easy |
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](Solution167.java) | Easy |
 [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](Solution209.java) | Medium |
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |

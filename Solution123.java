@@ -11,7 +11,7 @@ class Solution123 {
         // }
         // return maxprofit;
         
-        // Method 2: 
+        // Method 2: Dynamic Programming, TC:O(KN), SC:O(KN)
         if (prices.length == 0) return 0;
         int[][] dp = new int[3][prices.length];
         
