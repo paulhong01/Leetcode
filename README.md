@@ -88,6 +88,7 @@ Title | Solution | Difficulty | Others
 [120. Triangle](https://leetcode.com/problems/triangle/) | [Solution](Solution120.java) | Medium |
 [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | [Solution](Solution121.java) | Easy |
 [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution](Solution123.java) | Hard | 
+[132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | [Solution](Solution132.java) | Hard | 
 [139. Word Break](https://leetcode.com/problems/word-break/description/) | [Solution](Solution139.java) | Medium |
 [198. House Robber](https://leetcode.com/problems/house-robber/description/) | [Solution](Solution198.java) | Easy |
 [213. House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution](Solution213.java) | Medium |
@@ -262,6 +263,7 @@ Title | Solution | Difficulty | Others
 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](Solution560.java)| Medium |
 [575. Distribute Candies](https://leetcode.com/problems/distribute-candies/description/)| [Solution](Solution575.java)| Easy | 
+[599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| [Solution](Solution599.java)| Easy | 
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)| [Solution](Solution739.java)| Medium | 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)| [Solution](Solution771.java)| Easy | 
 [811. Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/)| [Solution](Solution811.java)| Easy |
@@ -318,6 +320,7 @@ Title | Solution | Difficulty | Others
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/) | [Solution](Solution392.java) | Medium |
 [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Solution](Solution410.java) | Hard |
 [454. 4Sum II](https://leetcode.com/problems/4sum-ii/description/)| [Solution]( https://github.com/paulhong01/Leetcode_Java/blob/master/Solution454.java) | Medium | 
+[528. Random Pick with Weight](https://leetcode.com/problems/random-pick-with-weight/)| [Solution](Solution528.java) | Medium | 
 [774. Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution774.java)| Hard | 
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy | 
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution875.java)| Medium |
@@ -429,6 +432,7 @@ Title | Solution | Difficulty | Others
 # <h3> Bit Manipulation 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](Solution137.java) | Medium |
 [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](Solution201.java) | Medium |
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
 [476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
@@ -461,3 +465,4 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](Solution239.java) | Hard |
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
+[692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](Solution692.java) | Medium |
