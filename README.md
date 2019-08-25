@@ -141,6 +141,7 @@ Title | Solution | Difficulty | Others
 [553. Optimal Division](https://leetcode.com/problems/optimal-division/description/) | [Solution](Solution553.java) | Medium |
 [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/) | [Solution](Solution557.java) | Easy |
 [657. Judge Route Circle](https://leetcode.com/problems/judge-route-circle/description/) | [Solution](Solution657.java) | Easy |
+[680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](Solution680.java) | Easy |
 [681. Next Closest Time](https://leetcode.com/problems/next-closest-time/description/) | [Solution](Solution681.java) | Medium |
 [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/) | [Solution](Solution709.java) | Easy |
 [791. Custom Sort String](https://leetcode.com/problems/custom-sort-string/description/) | [Solution](Solution791.java) | Medium |
@@ -257,6 +258,7 @@ Title | Solution | Difficulty | Others
 [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs/)| [Solution](Solution336.java)| Hard |
 [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| [Solution](Solution340.java)| Hard |
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
+[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [Solution](Solution380.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
 [463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
@@ -423,6 +425,7 @@ Title | Solution | Difficulty | Others
 [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [Solution](Solution206.java) | Easy | 
 [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [Solution](Solution237.java) | Easy |
 [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/) | [Solution](Solution328.java) | Medium |
+[426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Solution](Solution426.java) | Medium |
 [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](Solution430.java) | Medium |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
