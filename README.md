@@ -293,6 +293,7 @@ Title | Solution | Difficulty | Others
 [529. Minesweeper](https://leetcode.com/problems/minesweeper/description/)| [Solution](Solution529.java)| Medium | 
 [547. Friend Circles](https://leetcode.com/problems/friend-circles/description/)| [Solution](Solution547.java)| Medium | Remember to write an union-find solution!!
 [690. Employee Importance](https://leetcode.com/problems/employee-importance/description/)| [Solution](Solution690.java)| Easy | 
+[721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)| [Solution](Solution721.java)| Medium | 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
 [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
