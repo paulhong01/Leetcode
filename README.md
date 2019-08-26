@@ -296,6 +296,7 @@ Title | Solution | Difficulty | Others
 [721. Accounts Merge](https://leetcode.com/problems/accounts-merge/)| [Solution](Solution721.java)| Medium | 
 [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/)| [Solution](Solution733.java)| Easy | 
 [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/)| [Solution](Solution756.java)| Medium | 
+[785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)| [Solution](Solution785.java)| Medium | 
 [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)| [Solution](Solution797.java)| Medium | 
 [841. Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/description/)| [Solution](Solution841.java)| Medium | I used BFS to solve this problem
 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium |
@@ -382,6 +383,7 @@ Title | Solution | Difficulty | Others
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](Solution131.java) | Medium |
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
+[301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](Solution301.java) | Hard |
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium |
 [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium | 
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |

@@ -1,42 +1,45 @@
 // Leetcode 301: Remove Invalid Parentheses
 import java.util.*;
 
-public class Solution301 {
-    public static void main(String[] args) {
-        String s = "()())()";
 
-        Solution301 sol = new Solution301();
-        List<String> res = sol.removeInvalidParentheses(s);
-        for (String r: res) {
-            System.out.printf("%s ", r);
-        }
-        System.out.println("");
-    }
-
+class Solution {
+    int min_modify;
+    Map<Integer, Set<String>> map;
     public List<String> removeInvalidParentheses(String s) {
-        // BFS
-        List<String> result = new ArrayList();
-
-        Set<String> set = new HashSet();
-        Queue<String> queue = new LinkedList();
-        queue.add(s);
-        
-        while (!queue.isEmpty()) {
-            String cur = queue.poll();
-
-            boolean flag = false;
-            if (isValid(cur)) {
-                result.add(s);
-                flag = true;
-            }
-            if (flag)   continue;
-
-            for (int i = 0; i < )
-            
-        }
+        // TC:O(2^N), SC:O(2^N)
+        min_modify = s.length();
+        map = new HashMap();
+        helper(s, 0, s.length());
+        return new ArrayList(map.getOrDefault(min_modify, new HashSet()));
     }
-
-    private boolean isValid(String s) {
-
+    
+    private boolean checker(String s) {
+        int count = 0;
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                count++;
+            } else if (c == ')') {
+                count--;
+                if (count < 0)  return false;
+            }
+        }
+        return count == 0;
+    }
+    
+    private void helper(String s, int idx, int original_length) {
+        if (idx >= s.length() && checker(s)) {
+            int num_remove = original_length - s.length();
+            min_modify = Math.min(min_modify, num_remove);
+            if (!map.containsKey(num_remove)) {
+                map.put(num_remove, new HashSet());
+            }
+            
+            map.get(num_remove).add(s);
+            return;
+        } else if (idx >= s.length()) {
+            return;
+        }
+        helper(s, idx+1, original_length);
+        helper(s.substring(0, idx)+s.substring(idx+1), idx, original_length);
     }
 }
