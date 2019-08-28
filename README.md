@@ -120,6 +120,7 @@ Title | Solution | Difficulty | Others
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [Solution](Solution20.java) | Easy |
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | [Solution](Solution32.java) | Hard |
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](Solution43.java) | Medium |
+[67. Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](Solution67.java) | Easy |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution](Solution157.java) | Easy |
@@ -473,3 +474,4 @@ Title | Solution | Difficulty | Others
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](Solution239.java) | Hard |
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](Solution692.java) | Medium |
+[973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](Solution973.java) | Medium |
