@@ -361,6 +361,7 @@ Title | Solution | Difficulty | Others
 [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) | [Solution](Solution107.java) | Easy |
 [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/) | [Solution](Solution127.java) | Medium |
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
+[269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](Solution269.java) | Hard | 
 [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | 
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
@@ -385,6 +386,7 @@ Title | Solution | Difficulty | Others
 [93. Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [Solution](Solution93.java) | Medium 
 [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [Solution](Solution131.java) | Medium |
 [216. Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/) | [Solution](Solution216.java) | Medium |
+[282. Expression Add Operators](https://leetcode.com/problems/expression-add-operators/) | [Solution](Solution282.java) | Hard | 
 [294. Flip Game II](https://leetcode.com/problems/flip-game-ii/description/) | [Solution](Solution294.java) | Medium | 
 [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) | [Solution](Solution301.java) | Hard |
 [320. Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/description/) | [Solution](Solution320.java) | Medium |
