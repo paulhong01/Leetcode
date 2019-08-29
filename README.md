@@ -102,6 +102,7 @@ Title | Solution | Difficulty | Others
 [334. Increasing Triplet Subsequence](https://leetcode.com/problems/product-of-array-except-self/description/https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution](Solution334.java) | Medium | Use concept of 300
 [338. Counting Bits](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](Solution338.java) | Medium |
 [494. Target Sum](https://leetcode.com/problems/target-sum/description/) | [Solution](Solution494.java) | Medium |
+[523. Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Solution](Solution523.java) | Medium |
 [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](Solution583.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
@@ -124,6 +125,7 @@ Title | Solution | Difficulty | Others
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution](Solution157.java) | Easy |
+[158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Solution](Solution158.java) | Hard |
 [161. One Edit Distance](https://leetcode.com/problems/one-edit-distance/) | [Solution](Solution161.java) | Medium |
 [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution](Solution165.java) | Medium |
 [186. Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) | [Solution](Solution186.java) | Medium |
