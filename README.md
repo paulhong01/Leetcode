@@ -53,10 +53,13 @@ Title | Solution | Difficulty | Others
 [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/description/)| [Solution](Solution566.java)| Easy |
 [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)| [Solution](Solution581.java)| Easy |
 [667. Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/description/) | [Solution](Solution667.java) | Medium |
+[670. Maximum Swap](https://leetcode.com/problems/maximum-swap/) | [Solution](Solution670.java) | Medium |
 [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)| [Solution](Solution695.java)| Easy | Remember to write an union-find solution!! 
 [766. Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/description/)| [Solution](Solution766.java)| Easy |
+[825. Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/)| [Solution](Solution825.java)| Medium |
 [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/)| [Solution](Solution832.java)| Easy |
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)| [Solution](Solution867.java)| Easy |
+[896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)| [Solution](Solution896.java)| Easy |
 [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)| [Solution](Solution905.java)| Easy |
 [945. Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique/)| [Solution](Solution945.java)| Medium |
 [946. Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)| [Solution](Solution946.java)| Medium |
@@ -205,6 +208,7 @@ Title | Solution | Difficulty | Others
 [270. Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)| [Solution](Solution270.java)| Easy |
 [285. Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)| [Solution](Solution285.java)| Medium |
 [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)| [Solution](Solution297.java)| Hard |
+[314. Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)| [Solution](Solution314.java)| Medium |
 [366. Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)| [Solution](Solution366.java)| Medium |
 [437. Path Sum III](https://leetcode.com/problems/path-sum-iii/description/)| [Solution](Solution437.java)| Easy |    
 [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)| [Solution](Solution450.java)| Medium |
@@ -263,6 +267,7 @@ Title | Solution | Difficulty | Others
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)| [Solution](Solution347.java)| Medium |
 [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)| [Solution](Solution380.java)| Medium |
 [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)| [Solution](Solution387.java)| Easy |
+[438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| [Solution](Solution438.java)| Medium |
 [463. Island Perimeter](https://leetcode.com/problems/island-perimanagrameter/description/)| [Solution](Solution463.java)| Easy | 
 [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)| [Solution](Solution500.java)| Easy | 
 [508. Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/description/)| [Solution](Solution508.java)| Medium | 
@@ -363,6 +368,7 @@ Title | Solution | Difficulty | Others
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) | [Solution](Solution199.java) | Medium | Morris Traversal can get O(1) space complexity
 [269. Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | [Solution](Solution269.java) | Hard | 
 [286. Walls and Gates](https://leetcode.com/problems/walls-and-gates/description/) | [Solution](Solution286.java) | Medium | 
+[317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | [Solution](Solution317.java) | Hard |
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
 
