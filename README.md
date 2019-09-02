@@ -44,6 +44,7 @@ Title | Solution | Difficulty | Others
 [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/) | [Solution](Solution283.java) | Easy |
 [289. Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution](Solution289.java) | Medium |
 [305. Number of Islands II](https://leetcode.com/problems/number-of-islands-ii/) | [Solution](Solution305.java) | Hard | Union Find!
+[311. Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/) | [Solution](Solution311.java) | Medium | 
 [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)| [Solution](Solution442.java)| Medium |
 [448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [Solution](Solution448.java) | Easy |
 [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)| [Solution](Solution485.java)| Easy |
@@ -109,6 +110,7 @@ Title | Solution | Difficulty | Others
 [583. Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) | [Solution](Solution583.java) | Medium |
 [647. Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/description/) | [Solution](Solution647.java) | Medium |
 [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
+[1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Solution](Solution1027.java) | Medium |
 [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Solution](Solution1105.java) | Medium |
 
 
@@ -442,6 +444,7 @@ Title | Solution | Difficulty | Others
 [426. Convert Binary Search Tree to Sorted Doubly Linked List](https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/) | [Solution](Solution426.java) | Medium |
 [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](Solution430.java) | Medium |
 [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/) | [Solution](Solution445.java) | Medium |
+[708. Insert into a Cyclic Sorted List](https://leetcode.com/problems/insert-into-a-cyclic-sorted-list/) | [Solution](Solution708.java) | Medium |
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium |
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
@@ -474,6 +477,7 @@ Title | Solution | Difficulty | Others
 [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | [Solution](Solution496.java) | Easy |
 [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/) | [Solution](Solution503.java) | Medium |
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
+[636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [Solution](Solution636.java) | Medium |
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | [Solution](Solution1024.java) | Medium |
 [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution](Solution1081.java) | Medium |
 [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Solution](Solution1106.java) | Hard |
