@@ -43,20 +43,42 @@ public class Solution23 {
     }
 
     public ListNode mergeKLists(ListNode[] lists) {
-        int idx = minvalue(lists);
-        if (idx == -1)
-            return null;
-        ListNode head = lists[idx];
-        lists[idx] = lists[idx].next;
-        ListNode cur = head;
+        // int idx = minvalue(lists);
+        // if (idx == -1)
+        //     return null;
+        // ListNode head = lists[idx];
+        // lists[idx] = lists[idx].next;
+        // ListNode cur = head;
 
-        while (checkvalid(lists)) {
-            idx = minvalue(lists);
-            cur.next = lists[idx];
-            lists[idx] = lists[idx].next;
-            cur = cur.next;
+        // while (checkvalid(lists)) {
+        //     idx = minvalue(lists);
+        //     cur.next = lists[idx];
+        //     lists[idx] = lists[idx].next;
+        //     cur = cur.next;
+        // }
+
+        // return head;
+
+        // Method 2: PriorityQueue, TC:O(Nlog(k)), SC:O(k)
+        PriorityQueue<ListNode> pq = new PriorityQueue(new Comparator<ListNode> () {
+            public int compare(ListNode a, ListNode b) {
+                return (a.val - b.val);
+            }
+        });
+        for (ListNode list: lists) {
+            if (list != null)
+                pq.add(list);
         }
-
-        return head;
+        
+        ListNode dummy = new ListNode(-1);
+        ListNode cur = dummy;
+        while (!pq.isEmpty()) {
+            cur.next = pq.poll();
+            cur = cur.next;
+            if (cur.next != null) {
+                pq.add(cur.next);
+            }
+        }
+        return dummy.next;
     }
 }

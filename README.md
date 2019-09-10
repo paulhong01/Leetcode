@@ -75,6 +75,7 @@ Title | Solution | Difficulty | Others
 [1031. Maximum Sum of Two Non-Overlapping Subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/)| [Solution](Solution1031.java)| Medium |
 [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Solution](Solution1074.java)| Medium |
 [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Solution](Solution1122.java)| Easy |
+[1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)| [Solution](Solution1184.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -217,6 +218,7 @@ Title | Solution | Difficulty | Others
 [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/)| [Solution](Solution513.java)| Medium |
 [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/)| [Solution](Solution515.java)| Medium |
 [530. Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)| [Solution](Solution530.java)| Easy |
+[536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)| [Solution](Solution536.java)| Medium |
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Solution](Solution559.java)| Easy |
