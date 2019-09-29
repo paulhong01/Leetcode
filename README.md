@@ -222,6 +222,7 @@ Title | Solution | Difficulty | Others
 [536. Construct Binary Tree from String](https://leetcode.com/problems/construct-binary-tree-from-string/)| [Solution](Solution536.java)| Medium |
 [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)| [Solution](Solution538.java)| Easy |
 [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/)| [Solution](Solution543.java)| Easy |  
+[545. Boundary of Binary Tree](https://leetcode.com/problems/boundary-of-binary-tree/)| [Solution](Solution545.java)| Medium |  
 [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| [Solution](Solution559.java)| Easy |
 [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/)| [Solution](Solution572.java)| Easy |  
 [589. N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| [Solution](Solution589.java)| Easy |
@@ -376,6 +377,7 @@ Title | Solution | Difficulty | Others
 [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | [Solution](Solution317.java) | Hard |
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
+[909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](Solution909.java) | Medium |
 
 
  # <h3> Backtracking 
