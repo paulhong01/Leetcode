@@ -484,8 +484,11 @@ Title | Solution | Difficulty | Others
 [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution](Solution556.java) | Medium |
 [636. Exclusive Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/) | [Solution](Solution636.java) | Medium |
 [1024. Video Stitching](https://leetcode.com/problems/video-stitching/) | [Solution](Solution1024.java) | Medium |
+[1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [Solution](Solution1047.java) | Easy |
 [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution](Solution1081.java) | Medium |
 [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Solution](Solution1106.java) | Hard |
+[1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](Solution1209.java) | Medium |
+
 
 # <h3> Heap 
 Title | Solution | Difficulty | Others
