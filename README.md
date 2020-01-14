@@ -181,6 +181,7 @@ Title | Solution | Difficulty | Others
 [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](Solution991.java) | Medium |
 [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Solution](Solution1006.java) | Medium |
 [1022. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](Solution1022.java) | Medium |
+[1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
 
 
 # <h3> Tree 
