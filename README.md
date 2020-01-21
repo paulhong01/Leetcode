@@ -317,8 +317,9 @@ Title | Solution | Difficulty | Others
 [959. Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/)| [Solution](Solution959.java)| Medium |
 [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)| [Solution](Solution990.java)| Medium | Union find!
 [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Solution](Solution997.java)| Easy | 
- 
+[1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| [Solution](Solution1319.java)| Medium | Union find 
 
+ 
 # <h3> Binary search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -463,6 +464,7 @@ Title | Solution | Difficulty | Others
 [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](Solution201.java) | Medium |
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
 [476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
+[1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Solution](Solution1318.java) | Medium |
 
 
 # <h3> Divide and Conquer 
