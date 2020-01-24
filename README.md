@@ -161,6 +161,7 @@ Title | Solution | Difficulty | Others
 [893. Groups of Special-Equivalent Strings](https://leetcode.com/problems/groups-of-special-equivalent-strings/) | [Solution](Solution893.java) | Easy |
 [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](Solution1021.java) | Easy |
 [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Solution](Solution1023.java) | Medium |
+[1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Solution](Solution1324.java) | Medium |
 
 
 # <h3> Math 
@@ -182,6 +183,7 @@ Title | Solution | Difficulty | Others
 [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Solution](Solution1006.java) | Medium |
 [1022. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](Solution1022.java) | Medium |
 [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
+[1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
 
 
 # <h3> Tree 
