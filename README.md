@@ -76,6 +76,8 @@ Title | Solution | Difficulty | Others
 [1074. Number of Submatrices That Sum to Target](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/)| [Solution](Solution1074.java)| Medium |
 [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Solution](Solution1122.java)| Easy |
 [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)| [Solution](Solution1184.java)| Easy |
+[1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)| [Solution](Solution1333.java)| Medium |
+[1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)| [Solution](Solution1334.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -162,6 +164,7 @@ Title | Solution | Difficulty | Others
 [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | [Solution](Solution1021.java) | Easy |
 [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Solution](Solution1023.java) | Medium |
 [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Solution](Solution1324.java) | Medium |
+[1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](Solution1332.java) | Easy |
 
 
 # <h3> Math 
