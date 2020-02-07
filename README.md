@@ -78,6 +78,8 @@ Title | Solution | Difficulty | Others
 [1184. Distance Between Bus Stops](https://leetcode.com/problems/distance-between-bus-stops/)| [Solution](Solution1184.java)| Easy |
 [1333. Filter Restaurants by Vegan-Friendly, Price and Distance](https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/)| [Solution](Solution1333.java)| Medium |
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)| [Solution](Solution1334.java)| Medium |
+[1341. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/submissions/)| [Solution](Solution1341.java)| Easy |
+[1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| [Solution](Solution1338.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -115,6 +117,7 @@ Title | Solution | Difficulty | Others
 [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution](Solution983.java) | Medium |
 [1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Solution](Solution1027.java) | Medium |
 [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Solution](Solution1105.java) | Medium |
+[1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Solution](Solution1340.java) | Hard |
 
 
 # <h3> String 
@@ -256,6 +259,7 @@ Title | Solution | Difficulty | Others
 [1008. Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| [Solution](Solution1008.java)| Medium |
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Solution](Solution1022.java)| Easy |
 [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)| [Solution](Solution1129.java)| Medium |
+[1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)| [Solution](Solution1339.java)| Medium |
 
 
 # <h3> Hash Table 
