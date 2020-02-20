@@ -80,6 +80,8 @@ Title | Solution | Difficulty | Others
 [1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)| [Solution](Solution1334.java)| Medium |
 [1341. The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/submissions/)| [Solution](Solution1341.java)| Easy |
 [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| [Solution](Solution1338.java)| Medium |
+[1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](Solution1351.java)| Easy |
+[1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)| [Solution](Solution1352.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -432,6 +434,8 @@ Title | Solution | Difficulty | Others
 [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Solution](Solution995.java) | Hard | 
 [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](Solution1005.java) | Easy | 
 [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution](Solution1007.java) | Medium | 
+[1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](Solution1353.java) | Medium | 
+[1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [Solution](Solution1354.java) | Hard | 
 
 
 # <h3> Linked List 
