@@ -170,6 +170,7 @@ Title | Solution | Difficulty | Others
 [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/) | [Solution](Solution1023.java) | Medium |
 [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Solution](Solution1324.java) | Medium |
 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](Solution1332.java) | Easy |
+[1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Solution](Solution1360.java) | Easy |
 
 
 # <h3> Math 
@@ -192,6 +193,7 @@ Title | Solution | Difficulty | Others
 [1022. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](Solution1022.java) | Medium |
 [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
+[1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [Solution](Solution1362.java) | Medium |
 
 
 # <h3> Tree 
@@ -262,6 +264,7 @@ Title | Solution | Difficulty | Others
 [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| [Solution](Solution1022.java)| Easy |
 [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)| [Solution](Solution1129.java)| Medium |
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)| [Solution](Solution1339.java)| Medium |
+[1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)| [Solution](Solution1361.java)| Medium |
 
 
 # <h3> Hash Table 
