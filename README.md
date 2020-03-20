@@ -82,6 +82,7 @@ Title | Solution | Difficulty | Others
 [1338. Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/)| [Solution](Solution1338.java)| Medium |
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](Solution1351.java)| Easy |
 [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)| [Solution](Solution1352.java)| Medium |
+[1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Solution](Solution1380.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -171,6 +172,7 @@ Title | Solution | Difficulty | Others
 [1324. Print Words Vertically](https://leetcode.com/problems/print-words-vertically/) | [Solution](Solution1324.java) | Medium |
 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](Solution1332.java) | Easy |
 [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Solution](Solution1360.java) | Easy |
+[1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](Solution1374.java) | Easy |
 
 
 # <h3> Math 
@@ -508,6 +510,7 @@ Title | Solution | Difficulty | Others
 [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution](Solution1081.java) | Medium |
 [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Solution](Solution1106.java) | Hard |
 [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](Solution1209.java) | Medium |
+[1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Solution](Solution1381.java) | Medium |
 
 
 # <h3> Heap 
