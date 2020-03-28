@@ -83,6 +83,7 @@ Title | Solution | Difficulty | Others
 [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| [Solution](Solution1351.java)| Easy |
 [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)| [Solution](Solution1352.java)| Medium |
 [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Solution](Solution1380.java)| Easy |
+[1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)| [Solution](Solution1389.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -196,6 +197,7 @@ Title | Solution | Difficulty | Others
 [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
 [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [Solution](Solution1362.java) | Medium |
+[1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](Solution1390.java) | Medium |
 
 
 # <h3> Tree 
@@ -396,6 +398,7 @@ Title | Solution | Difficulty | Others
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
 [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](Solution909.java) | Medium |
+[1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Solution](Solution1391.java) | Medium |
 
 
  # <h3> Backtracking 
