@@ -84,6 +84,8 @@ Title | Solution | Difficulty | Others
 [1352. Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)| [Solution](Solution1352.java)| Medium |
 [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [Solution](Solution1380.java)| Easy |
 [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)| [Solution](Solution1389.java)| Easy |
+[1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| [Solution](Solution1394.java)| Easy |
+[1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)| [Solution](Solution1395.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -122,6 +124,7 @@ Title | Solution | Difficulty | Others
 [1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) | [Solution](Solution1027.java) | Medium |
 [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Solution](Solution1105.java) | Medium |
 [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Solution](Solution1340.java) | Hard |
+[1397. Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [Solution](Solution1397.java) | Hard |
 
 
 # <h3> String 
@@ -523,3 +526,9 @@ Title | Solution | Difficulty | Others
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](Solution692.java) | Medium |
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](Solution973.java) | Medium |
+
+
+# <h3> Design 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1396. Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution](Solution1396.java) | Medium |
