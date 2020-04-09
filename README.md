@@ -125,6 +125,7 @@ Title | Solution | Difficulty | Others
 [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/) | [Solution](Solution1105.java) | Medium |
 [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Solution](Solution1340.java) | Hard |
 [1397. Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [Solution](Solution1397.java) | Hard |
+[1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Solution](Solution1406.java) | Hard |
 
 
 # <h3> String 
@@ -447,6 +448,8 @@ Title | Solution | Difficulty | Others
 [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution](Solution1007.java) | Medium | 
 [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](Solution1353.java) | Medium | 
 [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [Solution](Solution1354.java) | Hard | 
+[1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Solution](Solution1405.java) | Medium | 
+[1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](Solution1403.java) | Easy | 
 
 
 # <h3> Linked List 
@@ -490,6 +493,7 @@ Title | Solution | Difficulty | Others
 [476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Solution](Solution1318.java) | Medium |
 [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](Solution1342.java) | Easy |
+[1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](Solution1404.java) | Medium |
 
 
 # <h3> Divide and Conquer 
