@@ -86,6 +86,7 @@ Title | Solution | Difficulty | Others
 [1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)| [Solution](Solution1389.java)| Easy |
 [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| [Solution](Solution1394.java)| Easy |
 [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)| [Solution](Solution1395.java)| Medium |
+[1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)| [Solution](Solution1424.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -126,6 +127,7 @@ Title | Solution | Difficulty | Others
 [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/) | [Solution](Solution1340.java) | Hard |
 [1397. Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [Solution](Solution1397.java) | Hard |
 [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Solution](Solution1406.java) | Hard |
+[1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](Solution1423.java) | Medium | Sliding Window
 
 
 # <h3> String 
@@ -178,6 +180,7 @@ Title | Solution | Difficulty | Others
 [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution](Solution1332.java) | Easy |
 [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Solution](Solution1360.java) | Easy |
 [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](Solution1374.java) | Easy |
+[1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](Solution1422.java) | Easy |
 
 
 # <h3> Math 
