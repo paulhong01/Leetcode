@@ -87,6 +87,7 @@ Title | Solution | Difficulty | Others
 [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/)| [Solution](Solution1394.java)| Easy |
 [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)| [Solution](Solution1395.java)| Medium |
 [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)| [Solution](Solution1424.java)| Medium |
+[1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| [Solution](Solution1437.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -205,6 +206,7 @@ Title | Solution | Difficulty | Others
 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
 [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [Solution](Solution1362.java) | Medium |
 [1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](Solution1390.java) | Medium |
+[1436. Destination City](https://leetcode.com/problems/destination-city/) | [Solution](Solution1436.java) | Easy |
 
 
 # <h3> Tree 
@@ -497,6 +499,7 @@ Title | Solution | Difficulty | Others
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Solution](Solution1318.java) | Medium |
 [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](Solution1342.java) | Easy |
 [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](Solution1404.java) | Medium |
+[1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Solution](Solution1442.java) | Medium |
 
 
 # <h3> Divide and Conquer 
