@@ -88,6 +88,7 @@ Title | Solution | Difficulty | Others
 [1395. Count Number of Teams](https://leetcode.com/problems/count-number-of-teams/)| [Solution](Solution1395.java)| Medium |
 [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)| [Solution](Solution1424.java)| Medium |
 [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| [Solution](Solution1437.java)| Medium |
+[1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)| [Solution](Solution1441.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -182,6 +183,7 @@ Title | Solution | Difficulty | Others
 [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/) | [Solution](Solution1360.java) | Easy |
 [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](Solution1374.java) | Easy |
 [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](Solution1422.java) | Easy |
+[1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Solution](Solution1451.java) | Medium |
 
 
 # <h3> Math 
@@ -278,6 +280,7 @@ Title | Solution | Difficulty | Others
 [1129. Shortest Path with Alternating Colors](https://leetcode.com/problems/shortest-path-with-alternating-colors/)| [Solution](Solution1129.java)| Medium |
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)| [Solution](Solution1339.java)| Medium |
 [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)| [Solution](Solution1361.java)| Medium |
+[1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)| [Solution](Solution1443.java)| Medium |
 
 
 # <h3> Hash Table 
