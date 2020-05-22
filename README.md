@@ -89,6 +89,7 @@ Title | Solution | Difficulty | Others
 [1424. Diagonal Traverse II](https://leetcode.com/problems/diagonal-traverse-ii/)| [Solution](Solution1424.java)| Medium |
 [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| [Solution](Solution1437.java)| Medium |
 [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)| [Solution](Solution1441.java)| Easy |
+[1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Solution](Solution1450.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -184,6 +185,7 @@ Title | Solution | Difficulty | Others
 [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Solution](Solution1374.java) | Easy |
 [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](Solution1422.java) | Easy |
 [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Solution](Solution1451.java) | Medium |
+[1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Solution](Solution1452.java) | Medium |
 
 
 # <h3> Math 
@@ -537,6 +539,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [Solution](Solution239.java) | Hard |
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | [Solution](Solution295.java) | Hard |
+[451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](Solution451.java) | Medium |
 [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](Solution692.java) | Medium |
 [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [Solution](Solution973.java) | Medium |
 
