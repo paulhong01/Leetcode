@@ -90,6 +90,7 @@ Title | Solution | Difficulty | Others
 [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| [Solution](Solution1437.java)| Medium |
 [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)| [Solution](Solution1441.java)| Easy |
 [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Solution](Solution1450.java)| Easy |
+[1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [Solution](Solution1465.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -186,6 +187,8 @@ Title | Solution | Difficulty | Others
 [1422. Maximum Score After Splitting a String](https://leetcode.com/problems/maximum-score-after-splitting-a-string/) | [Solution](Solution1422.java) | Easy |
 [1451. Rearrange Words in a Sentence](https://leetcode.com/problems/rearrange-words-in-a-sentence/) | [Solution](Solution1451.java) | Medium |
 [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Solution](Solution1452.java) | Medium |
+[1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Solution](Solution1455.java) | Easy |
+[1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](Solution1456.java) | Medium |
 
 
 # <h3> Math 
@@ -283,6 +286,7 @@ Title | Solution | Difficulty | Others
 [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/)| [Solution](Solution1339.java)| Medium |
 [1361. Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/)| [Solution](Solution1361.java)| Medium |
 [1443. Minimum Time to Collect All Apples in a Tree](https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/)| [Solution](Solution1443.java)| Medium |
+[1457. Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| [Solution](Solution1457.java)| Medium |
 
 
 # <h3> Hash Table 
@@ -411,6 +415,7 @@ Title | Solution | Difficulty | Others
 [317. Shortest Distance from All Buildings](https://leetcode.com/problems/shortest-distance-from-all-buildings/) | [Solution](Solution317.java) | Hard |
 [323. Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/description/) | [Solution](Solution323.java) | Medium |
 [773. Sliding Puzzle](https://leetcode.com/problems/sliding-puzzle/description/) | [Solution](Solution773.java) | Hard |
+[886. Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Solution](Solution886.java) | Medium | bipartite matching problem!
 [909. Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/) | [Solution](Solution909.java) | Medium |
 [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/) | [Solution](Solution1391.java) | Medium |
 
