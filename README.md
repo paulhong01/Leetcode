@@ -90,6 +90,7 @@ Title | Solution | Difficulty | Others
 [1437. Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/)| [Solution](Solution1437.java)| Medium |
 [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/)| [Solution](Solution1441.java)| Easy |
 [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Solution](Solution1450.java)| Easy |
+[1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [Solution](Solution1464.java)| Easy |
 [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [Solution](Solution1465.java)| Medium |
 
 
@@ -209,6 +210,7 @@ Title | Solution | Difficulty | Others
 [991. Broken Calculator](https://leetcode.com/problems/broken-calculator/) | [Solution](Solution991.java) | Medium |
 [1006. Clumsy Factorial](https://leetcode.com/problems/clumsy-factorial/) | [Solution](Solution1006.java) | Medium |
 [1022. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution](Solution1022.java) | Medium |
+[1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution](Solution1281.java) | Easy |
 [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
 [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [Solution](Solution1362.java) | Medium |
@@ -354,6 +356,7 @@ Title | Solution | Difficulty | Others
 [990. Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/)| [Solution](Solution990.java)| Medium | Union find!
 [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Solution](Solution997.java)| Easy | 
 [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| [Solution](Solution1319.java)| Medium | Union find 
+[1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| [Solution](Solution1466.java)| Medium |  
 
  
 # <h3> Binary search 
@@ -461,6 +464,7 @@ Title | Solution | Difficulty | Others
 [995. Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) | [Solution](Solution995.java) | Hard | 
 [1005. Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | [Solution](Solution1005.java) | Easy | 
 [1007. Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution](Solution1007.java) | Medium | 
+[1029. Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | [Solution](Solution1029.java) | Easy | 
 [1353. Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | [Solution](Solution1353.java) | Medium | 
 [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [Solution](Solution1354.java) | Hard | 
 [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Solution](Solution1405.java) | Medium | 
