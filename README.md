@@ -223,6 +223,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)| [Solution](Solution94.java)| Medium |
 [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| Medium |
+[99. Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| Hard  |
 [100. Same Tree](https://leetcode.com/problems/same-tree/description/)| [Solution](Solution100.java)| Easy |
 [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/)| [Solution](Solution103.java)| Medium |
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)| [Solution](Solution104.java)| Easy |
@@ -514,6 +515,7 @@ Title | Solution | Difficulty | Others
 [1342. Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution](Solution1342.java) | Easy |
 [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](Solution1404.java) | Medium |
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Solution](Solution1442.java) | Medium |
+[1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Solution](Solution1486.java) | Easy |
 
 
 # <h3> Divide and Conquer 
