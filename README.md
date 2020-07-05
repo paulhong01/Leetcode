@@ -92,6 +92,7 @@ Title | Solution | Difficulty | Others
 [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/)| [Solution](Solution1450.java)| Easy |
 [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [Solution](Solution1464.java)| Easy |
 [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [Solution](Solution1465.java)| Medium |
+[1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)| [Solution](Solution1498.java)| Medium |
 
 
 # <h3> Dynamic Programming 
@@ -190,6 +191,7 @@ Title | Solution | Difficulty | Others
 [1452. People Whose List of Favorite Companies Is Not a Subset of Another List](https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/) | [Solution](Solution1452.java) | Medium |
 [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Solution](Solution1455.java) | Easy |
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](Solution1456.java) | Medium |
+[1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | [Solution](Solution1496.java) | Easy |
 
 
 # <h3> Math 
@@ -203,6 +205,7 @@ Title | Solution | Difficulty | Others
 [292. Nim Game](https://leetcode.com/problems/nim-game/) | [Solution](Solution292.java) | Easy |
 [326. Power of Three](https://leetcode.com/problems/power-of-three/) | [Solution](Solution326.java) | Easy |
 [415. Add Strings](https://leetcode.com/problems/add-strings/) | [Solution](Solution415.java) | Easy |
+[441. Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution](Solution441.java) | Easy |
 [868. Binary Gap](https://leetcode.com/problems/binary-gap/) | [Solution](Solution868.java) | Easy |
 [939. Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [Solution](Solution939.java) | Medium |
 [949. Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution](Solution949.java) | Easy |
@@ -331,6 +334,7 @@ Title | Solution | Difficulty | Others
 [961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Solution](Solution961.java)| Medium | 
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Solution](Solution987.java)| Medium | 
 [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| [Solution](Solution992.java)| Hard | 
+[1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)| [Solution](Solution1487.java)| Medium | 
 
 
 # <h3> Depth-first search 
@@ -470,6 +474,7 @@ Title | Solution | Difficulty | Others
 [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [Solution](Solution1354.java) | Hard | 
 [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Solution](Solution1405.java) | Medium | 
 [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](Solution1403.java) | Easy | 
+[1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/ | [Solution](Solution1497.java) | Medium | 
 
 
 # <h3> Linked List 
