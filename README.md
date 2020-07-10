@@ -272,6 +272,7 @@ Title | Solution | Difficulty | Others
 [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/)| [Solution](Solution653.java)| Easy |
 [654. Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/description/)| [Solution](Solution654.java)| Medium | 
 [655. Print Binary Tree](https://leetcode.com/problems/print-binary-tree/description/)| [Solution](Solution655.java)| Medium |
+[662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)| [Solution](Solution662.java)| Medium |
 [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)| [Solution](Solution669.java)| Easy |
 [671. Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)| [Solution](Solution671.java)| Easy |
 [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/)| [Solution](Solution684.java)| Medium | Union find!
