@@ -336,6 +336,7 @@ Title | Solution | Difficulty | Others
 [987. Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)| [Solution](Solution987.java)| Medium | 
 [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| [Solution](Solution992.java)| Hard | 
 [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)| [Solution](Solution1487.java)| Medium | 
+[1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| [Solution](Solution1512.java)| Easy | 
 
 
 # <h3> Depth-first search 
