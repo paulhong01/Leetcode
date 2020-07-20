@@ -216,9 +216,12 @@ Title | Solution | Difficulty | Others
 [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [Solution](Solution1281.java) | Easy |
 [1317. Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [Solution](Solution1317.java) | Easy |
 [1323. Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | [Solution](Solution1323.java) | Easy |
+[1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution](Solution1344.java) | Medium |
 [1362. Closest Divisors](https://leetcode.com/problems/closest-divisors/) | [Solution](Solution1362.java) | Medium |
 [1390. Four Divisors](https://leetcode.com/problems/four-divisors/) | [Solution](Solution1390.java) | Medium |
 [1436. Destination City](https://leetcode.com/problems/destination-city/) | [Solution](Solution1436.java) | Easy |
+[1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Solution](Solution1513.java) | Medium |
+[1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution](Solution1344.java) | Medium |
 
 
 # <h3> Tree 
@@ -364,6 +367,7 @@ Title | Solution | Difficulty | Others
 [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)| [Solution](Solution997.java)| Easy | 
 [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| [Solution](Solution1319.java)| Medium | Union find 
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| [Solution](Solution1466.java)| Medium |  
+[1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| [Solution](Solution1519.java)| Medium | 
 
  
 # <h3> Binary search 
@@ -476,7 +480,8 @@ Title | Solution | Difficulty | Others
 [1354. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/) | [Solution](Solution1354.java) | Hard | 
 [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Solution](Solution1405.java) | Medium | 
 [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](Solution1403.java) | Easy | 
-[1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/ | [Solution](Solution1497.java) | Medium | 
+[1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Solution](Solution1497.java) | Medium | 
+[1518. Water Bottles]https://leetcode.com/problems/water-bottles/) | [Solution](Solution1518.java) | Easy |
 
 
 # <h3> Linked List 
