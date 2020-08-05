@@ -192,6 +192,7 @@ Title | Solution | Difficulty | Others
 [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | [Solution](Solution1455.java) | Easy |
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](Solution1456.java) | Medium |
 [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | [Solution](Solution1496.java) | Easy |
+[1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution](Solution1528.java) | Easy |
 
 
 # <h3> Math 
@@ -521,6 +522,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [Solution](Solution137.java) | Medium |
 [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/) | [Solution](Solution201.java) | Medium |
+[342. Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution](Solution342.java) | Easy |
 [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [Solution](Solution461.java) | Easy |
 [476. Number Complement](https://leetcode.com/problems/number-complement/) | [Solution](Solution476.java) | Easy |
 [1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [Solution](Solution1318.java) | Medium |
