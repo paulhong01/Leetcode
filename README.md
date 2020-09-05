@@ -93,6 +93,7 @@ Title | Solution | Difficulty | Others
 [1464. Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [Solution](Solution1464.java)| Easy |
 [1465. Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| [Solution](Solution1465.java)| Medium |
 [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)| [Solution](Solution1498.java)| Medium |
+[1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)| [Solution](Solution1572.java)| Easy |
 
 
 # <h3> Dynamic Programming 
