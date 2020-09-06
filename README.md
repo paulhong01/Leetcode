@@ -194,6 +194,7 @@ Title | Solution | Difficulty | Others
 [1456. Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](Solution1456.java) | Medium |
 [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | [Solution](Solution1496.java) | Easy |
 [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution](Solution1528.java) | Easy |
+[1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution](Solution1573.java) | Medium |
 
 
 # <h3> Math 
