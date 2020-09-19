@@ -97,6 +97,7 @@ Title | Solution | Difficulty | Others
 [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)| [Solution](Solution1572.java)| Easy |
 [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)| [Solution](Solution1574.java)| Medium |
 [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)| [Solution](Solution1582.java)| Easy |
+[1583. Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)| [Solution](Solution1583.java)| Medium |
 
 
 # <h3> Dynamic Programming 
