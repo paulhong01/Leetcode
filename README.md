@@ -199,6 +199,7 @@ Title | Solution | Difficulty | Others
 [1496. Path Crossing](https://leetcode.com/problems/path-crossing/) | [Solution](Solution1496.java) | Easy |
 [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution](Solution1528.java) | Easy |
 [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution](Solution1573.java) | Medium |
+[1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Solution](Solution1592.java) | Easy |
 
 
 # <h3> Math 
