@@ -564,6 +564,7 @@ Title | Solution | Difficulty | Others
 [1106. Parsing A Boolean Expression](https://leetcode.com/problems/parsing-a-boolean-expression/) | [Solution](Solution1106.java) | Hard |
 [1209. Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) | [Solution](Solution1209.java) | Medium |
 [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Solution](Solution1381.java) | Medium |
+[1598. Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [Solution](Solution1598.java) | Easy |
 
 
 # <h3> Heap 
