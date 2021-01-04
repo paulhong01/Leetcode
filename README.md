@@ -98,6 +98,7 @@ Title | Solution | Difficulty | Others
 [1574. Shortest Subarray to be Removed to Make Array Sorted](https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/)| [Solution](Solution1574.java)| Medium |
 [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)| [Solution](Solution1582.java)| Easy |
 [1583. Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)| [Solution](Solution1583.java)| Medium |
+[1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](Solution1710.java)| Easy |
 
 
 # <h3> Dynamic Programming 
