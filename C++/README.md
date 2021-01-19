@@ -12,3 +12,9 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](solution2.cc)| Medium |
+
+
+# <h3> Greedy 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1725. Number Of Rectangles That Can Form The Largest Squares](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Solution](solution1725.cc)| Easy |

@@ -490,7 +490,8 @@ Title | Solution | Difficulty | Others
 [1405. Longest Happy String](https://leetcode.com/problems/longest-happy-string/) | [Solution](Solution1405.java) | Medium | 
 [1403. Minimum Subsequence in Non-Increasing Order](https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/) | [Solution](Solution1403.java) | Easy | 
 [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Solution](Solution1497.java) | Medium | 
-[1518. Water Bottles]https://leetcode.com/problems/water-bottles/) | [Solution](Solution1518.java) | Easy |
+[1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | [Solution](Solution1518.java) | Easy |
+[1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Solution](Solution1725.java) | Easy |
 
 
 # <h3> Linked List 
