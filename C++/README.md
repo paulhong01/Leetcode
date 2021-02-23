@@ -18,3 +18,9 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1725. Number Of Rectangles That Can Form The Largest Squares](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Solution](solution1725.cc)| Easy |
+
+
+# <h3> String 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [Solution](solution1768.cc)| Easy |

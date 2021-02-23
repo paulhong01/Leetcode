@@ -201,6 +201,7 @@ Title | Solution | Difficulty | Others
 [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) | [Solution](Solution1528.java) | Easy |
 [1573. Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) | [Solution](Solution1573.java) | Medium |
 [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Solution](Solution1592.java) | Easy |
+[1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](Solution1768.java) | Easy |
 
 
 # <h3> Math 
