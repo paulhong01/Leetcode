@@ -3,6 +3,8 @@
 #include <vector>
 #include <unordered_map>
 
+namespace {
+
 class Solution {
 public:
     std::vector<int> twoSum(std::vector<int>& nums, int target) {
@@ -21,3 +23,5 @@ public:
         return {};
     }
 };
+
+} // namespace

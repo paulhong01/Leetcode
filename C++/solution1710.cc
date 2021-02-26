@@ -2,6 +2,8 @@
 #include <iostream>
 #include <vector>
 
+namespace {
+
 class Solution {
 public:
     int maximumUnits(std::vector<std::vector<int>>& boxTypes, int truckSize) {
@@ -21,3 +23,5 @@ public:
         return ret;
     }
 };
+
+} // namespace

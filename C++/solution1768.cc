@@ -2,6 +2,8 @@
 #include <iostream>
 #include <string>
 
+namespace {
+    
 class Solution {
 public:
     std::string mergeAlternately(std::string word1, std::string word2) {
@@ -20,3 +22,5 @@ public:
         return ret;
     }
 };
+
+} // namespace

@@ -99,6 +99,7 @@ Title | Solution | Difficulty | Others
 [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)| [Solution](Solution1582.java)| Easy |
 [1583. Count Unhappy Friends](https://leetcode.com/problems/count-unhappy-friends/)| [Solution](Solution1583.java)| Medium |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](Solution1710.java)| Easy |
+[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| [Solution](Solution1769.java)| Medium |
 
 
 # <h3> Dynamic Programming 
