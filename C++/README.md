@@ -9,16 +9,22 @@ Title | Solution | Difficulty | Others
 [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| [Solution](solution1769.cc)| Medium |
 
 
-# <h3> Linked List 
+# <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](solution2.cc)| Medium |
+[1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 
 
 # <h3> Greedy 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1725. Number Of Rectangles That Can Form The Largest Squares](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Solution](solution1725.cc)| Easy |
+
+
+# <h3> Linked List 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](solution2.cc)| Medium |
 
 
 # <h3> String 

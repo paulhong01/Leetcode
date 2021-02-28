@@ -141,6 +141,7 @@ Title | Solution | Difficulty | Others
 [1397. Find All Good Strings](https://leetcode.com/problems/find-all-good-strings/) | [Solution](Solution1397.java) | Hard |
 [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/) | [Solution](Solution1406.java) | Hard |
 [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](Solution1423.java) | Medium | Sliding Window
+[1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [Solution](Solution1770.java) | Medium | 
 
 
 # <h3> String 
