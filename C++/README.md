@@ -31,3 +31,4 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [Solution](solution1768.cc)| Easy |
+[1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Solution](solution1773.cc)| Easy |
