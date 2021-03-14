@@ -6,12 +6,13 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](solution1.cc)| Easy |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](solution1710.cc)| Easy |
-[1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| [Solution](solution1769.cc)| Medium |
+[1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 
 
 # <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 
 
