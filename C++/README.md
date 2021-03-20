@@ -20,6 +20,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1725. Number Of Rectangles That Can Form The Largest Squares](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)| [Solution](solution1725.cc)| Easy |
+[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [Solution](solution1784.cc)| Easy |
 [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)| [Solution](solution1785.cc)| Medium |
 
 

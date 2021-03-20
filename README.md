@@ -497,6 +497,7 @@ Title | Solution | Difficulty | Others
 [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/) | [Solution](Solution1497.java) | Medium | 
 [1518. Water Bottles](https://leetcode.com/problems/water-bottles/) | [Solution](Solution1518.java) | Easy |
 [1725. Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [Solution](Solution1725.java) | Easy |
+[1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Solution](Solution1784.java) | Easy |
 [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Solution](Solution1785.java) | Medium |
 
 
