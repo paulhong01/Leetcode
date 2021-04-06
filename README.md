@@ -206,6 +206,7 @@ Title | Solution | Difficulty | Others
 [1592. Rearrange Spaces Between Words](https://leetcode.com/problems/rearrange-spaces-between-words/) | [Solution](Solution1592.java) | Easy |
 [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](Solution1768.java) | Easy |
 [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution](Solution1773.java) | Easy |
+[1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Solution](Solution1816.java) | Easy |
 
 
 # <h3> Math 
