@@ -355,6 +355,7 @@ Title | Solution | Difficulty | Others
 [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/)| [Solution](Solution992.java)| Hard | 
 [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)| [Solution](Solution1487.java)| Medium | 
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| [Solution](Solution1512.java)| Easy | 
+[1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](Solution1817.java)| Medium | 
 
 
 # <h3> Depth-first search 
