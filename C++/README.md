@@ -14,6 +14,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
+[1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
 
 
 # <h3> Greedy 

@@ -143,6 +143,7 @@ Title | Solution | Difficulty | Others
 [1423. Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](Solution1423.java) | Medium | Sliding Window
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [Solution](Solution1770.java) | Medium | 
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](Solution1786.java) | Medium | 
+[1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Solution](Solution1824.java) | Medium | 
 
 
 # <h3> String 
