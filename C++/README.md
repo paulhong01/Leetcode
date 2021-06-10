@@ -44,3 +44,9 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
+
+
+# <h3> Math 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
