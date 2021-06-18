@@ -209,6 +209,7 @@ Title | Solution | Difficulty | Others
 [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](Solution1768.java) | Easy |
 [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [Solution](Solution1773.java) | Easy |
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Solution](Solution1816.java) | Easy |
+[1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Solution](Solution18976.java) | Easy |
 
 
 # <h3> Math 
