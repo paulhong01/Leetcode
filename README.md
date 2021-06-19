@@ -416,6 +416,7 @@ Title | Solution | Difficulty | Others
 [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution852.java)| Easy | 
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution875.java)| Medium |
 [1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](Solution1014.java)| Medium |
+[1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](Solution1898.java)| Medium |
 
 
 # <h3> Two Pointers

@@ -9,6 +9,11 @@ Title | Solution | Difficulty | Others
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
 
+# <h3> Binary search 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
+
 
 # <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
