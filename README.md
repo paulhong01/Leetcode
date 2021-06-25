@@ -507,6 +507,7 @@ Title | Solution | Difficulty | Others
 [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [Solution](Solution1784.java) | Easy |
 [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/) | [Solution](Solution1785.java) | Medium |
 [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/) | [Solution](Solution1899.java) | Medium |
+[1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Solution](Solution1903.java) | Easy |
 
 
 # <h3> Linked List 

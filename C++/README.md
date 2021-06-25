@@ -30,6 +30,7 @@ Title | Solution | Difficulty | Others
 [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)| [Solution](solution1784.cc)| Easy |
 [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)| [Solution](solution1785.cc)| Medium |
 [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)| [Solution](solution1899.cc)| Medium |
+[1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)| [Solution](solution1903.cc)| Easy |
 
 
 # <h3> Linked List 
