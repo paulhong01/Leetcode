@@ -58,3 +58,4 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
+[1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |

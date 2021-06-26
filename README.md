@@ -241,6 +241,7 @@ Title | Solution | Difficulty | Others
 [1513. Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | [Solution](Solution1513.java) | Medium |
 [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution](Solution1344.java) | Medium |
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](Solution1822.java) | Easy |
+[1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [Solution](Solution1904.java) | Medium |
 
 
 # <h3> Tree 
