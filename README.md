@@ -389,6 +389,7 @@ Title | Solution | Difficulty | Others
 [1319. Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| [Solution](Solution1319.java)| Medium | Union find 
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| [Solution](Solution1466.java)| Medium |  
 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| [Solution](Solution1519.java)| Medium | 
+[1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](Solution1905.java)| Medium | 
 
  
 # <h3> Binary search 

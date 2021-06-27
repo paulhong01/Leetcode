@@ -23,6 +23,12 @@ Title | Solution | Difficulty | Others
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
 
 
+# <h3> Depth-first search 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](solution1905.cc)| Medium |
+
+
 # <h3> Greedy 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
