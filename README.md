@@ -101,6 +101,7 @@ Title | Solution | Difficulty | Others
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](Solution1710.java)| Easy |
 [1769. Minimum Number of Operations to Move All Balls to Each Box](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/)| [Solution](Solution1769.java)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](Solution1823.java)| Medium |
+[1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| [Solution](Solution1913.java)| Easy |
 
 
 # <h3> Dynamic Programming 
