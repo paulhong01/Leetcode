@@ -9,6 +9,7 @@ Title | Solution | Difficulty | Others
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
 [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| [Solution](solution1913.cc)| Easy |
+[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Solution](solution1920.cc)| Easy |
 
 
 # <h3> Binary search 
@@ -60,6 +61,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
+[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
 
 
 # <h3> Math 

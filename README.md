@@ -103,6 +103,7 @@ Title | Solution | Difficulty | Others
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](Solution1823.java)| Medium |
 [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| [Solution](Solution1913.java)| Easy |
 [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)| [Solution](Solution1914.java)| Medium |
+[1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Solution](Solution1920.java)| Easy |
 
 
 # <h3> Dynamic Programming 
@@ -363,6 +364,7 @@ Title | Solution | Difficulty | Others
 [1487. Making File Names Unique](https://leetcode.com/problems/making-file-names-unique/)| [Solution](Solution1487.java)| Medium | 
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| [Solution](Solution1512.java)| Easy | 
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](Solution1817.java)| Medium | 
+[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](Solution1915.java)| Medium | 
 
 
 # <h3> Depth-first search 

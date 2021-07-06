@@ -3,7 +3,6 @@
 #include <vector>
 
 namespace {
-
 class Solution {
 public:
     int maxProductDifference(std::vector<int>& nums) {
@@ -13,5 +12,4 @@ public:
         return nums[N-1]*nums[N-2] - nums[0]*nums[1];
     }
 };   
-
 } // namesapce
