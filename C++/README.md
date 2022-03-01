@@ -18,6 +18,12 @@ Title | Solution | Difficulty | Others
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
 
 
+# <h3> Backtracking 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[78. Subsets](https://leetcode.com/problems/subsets/)| [Solution](solution78.cc)| Medium |
+
+
 # <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
@@ -42,10 +48,24 @@ Title | Solution | Difficulty | Others
 [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)| [Solution](solution1903.cc)| Easy |
 
 
+# <h3> Hash Table 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
+[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
+
+
 # <h3> Linked List 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](solution2.cc)| Medium |
+
+
+# <h3> Math 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
+[1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
 
 
 # <h3> String 
@@ -55,17 +75,3 @@ Title | Solution | Difficulty | Others
 [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Solution](solution1773.cc)| Easy |
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Solution](solution1816.cc)| Easy |
 [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| [Solution](solution1897.cc)| Easy |
-
-
-# <h3> Hash Table 
-Title | Solution | Difficulty | Others
-------|----------|------------|-------
-[1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
-[1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
-
-
-# <h3> Math 
-Title | Solution | Difficulty | Others
-------|----------|------------|-------
-[1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
-[1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
