@@ -59,6 +59,8 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [Solution](solution2.cc)| Medium |
+[82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| [Solution](solution82.cc)| Medium |
+[83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)| [Solution](solution83.cc)| Easy |
 
 
 # <h3> Math 
