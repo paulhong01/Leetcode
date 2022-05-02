@@ -70,6 +70,12 @@ Title | Solution | Difficulty | Others
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
 
 
+# <h3> Stack 
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)| [Solution](solution84.cc)| Hard |
+
+
 # <h3> String 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
