@@ -4,6 +4,7 @@ namespace {
 class Solution86 {
 public:
     ListNode* partition(ListNode* head, int x) {
+        // TC:O(N), SC:O(1)
         ListNode* less_half_dummy = new ListNode(-1);
         ListNode* greater_half_dummy = new ListNode(-1);
         ListNode* less_half = less_half_dummy;
