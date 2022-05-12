@@ -5,6 +5,7 @@ I'm practicing C++ recently. Those are my solutions writing in C++.
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](solution1.cc)| Easy |
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Solution](solution88.cc)| Easy |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](solution1710.cc)| Easy |
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
