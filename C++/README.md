@@ -19,6 +19,12 @@ Title | Solution | Difficulty | Others
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
 
 
+# <h3> Bit Manipulation
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[89. Gray Code](https://leetcode.com/problems/gray-code/)| [Solution](solution89.cc)| Medium |
+
+
 # <h3> Backtracking 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
