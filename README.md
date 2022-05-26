@@ -164,6 +164,7 @@ Title | Solution | Difficulty | Others
 [43. Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Solution](Solution43.java) | Medium |
 [67. Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](Solution67.java) | Easy |
 [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Solution](Solution71.java) | Medium |
+[87. Scramble String](https://leetcode.com/problems/scramble-string/) | [Solution](Solution87.java) | Hard |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [Solution](Solution151.java) | Medium |
 [157. Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) | [Solution](Solution157.java) | Easy |
 [158. Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) | [Solution](Solution158.java) | Hard |
