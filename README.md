@@ -368,6 +368,7 @@ Title | Solution | Difficulty | Others
 [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| [Solution](Solution1512.java)| Easy | 
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](Solution1817.java)| Medium | 
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](Solution1915.java)| Medium | 
+[2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](Solution2588.java)| Medium | 
 
 
 # <h3> Depth-first search 
