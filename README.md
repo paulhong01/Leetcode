@@ -104,6 +104,7 @@ Title | Solution | Difficulty | Others
 [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| [Solution](Solution1913.java)| Easy |
 [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/)| [Solution](Solution1914.java)| Medium |
 [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Solution](Solution1920.java)| Easy |
+[2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)| [Solution](Solution2586.java)| Easy |
 
 
 # <h3> Dynamic Programming 
