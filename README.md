@@ -403,6 +403,7 @@ Title | Solution | Difficulty | Others
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)| [Solution](Solution1466.java)| Medium |  
 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| [Solution](Solution1519.java)| Medium | 
 [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](Solution1905.java)| Medium | 
+[2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)| [Solution](Solution2596.java)| Medium | 
 
  
 # <h3> Binary search 
