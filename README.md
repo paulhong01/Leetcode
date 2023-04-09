@@ -571,6 +571,7 @@ Title | Solution | Difficulty | Others
 [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [Solution](Solution1404.java) | Medium |
 [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/) | [Solution](Solution1442.java) | Medium |
 [1486. XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Solution](Solution1486.java) | Easy |
+[2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/) | [Solution](Solution2595.java) | Easy |
 
 
 # <h3> Divide and Conquer 
