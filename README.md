@@ -254,6 +254,7 @@ Title | Solution | Difficulty | Others
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/) | [Solution](Solution1822.java) | Easy |
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [Solution](Solution1904.java) | Medium |
 [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children) | [Solution](Solution2591.java) | Easy |
+[2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Solution](Solution2607.java) | Medium |
 
 
 # <h3> Tree 
