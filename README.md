@@ -109,6 +109,7 @@ Title | Solution | Difficulty | Others
 [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| [Solution](Solution2592.java)| Medium |
 [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| [Solution](Solution2593.java)| Medium |
 [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)| [Solution](Solution2602.java)| Medium |
+[2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| [Solution](Solution2605.java)| Easy |
 
 
 # <h3> Dynamic Programming 
