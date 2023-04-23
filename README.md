@@ -154,6 +154,7 @@ Title | Solution | Difficulty | Others
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/) | [Solution](Solution1770.java) | Medium | 
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/) | [Solution](Solution1786.java) | Medium | 
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Solution](Solution1824.java) | Medium | 
+[2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Solution](Solution2606.java) | Medium | 
 
 
 # <h3> String 
