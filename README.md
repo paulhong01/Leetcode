@@ -378,6 +378,7 @@ Title | Solution | Difficulty | Others
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](Solution1817.java)| Medium | 
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](Solution1915.java)| Medium | 
 [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](Solution2588.java)| Medium | 
+[2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| [Solution](Solution2610.java)| Medium | 
 
 
 # <h3> Depth-first search 
