@@ -531,6 +531,7 @@ Title | Solution | Difficulty | Others
 [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | [Solution](Solution1903.java) | Easy |
 [2600. K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/) | [Solution](Solution2600.java) | Easy |
 [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/) | [Solution](Solution2601.java) | Medium |
+[2611. Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/) | [Solution](Solution2611.java) | Medium |
 
 
 # <h3> Linked List 
