@@ -440,6 +440,7 @@ Title | Solution | Difficulty | Others
 [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)| [Solution](https://github.com/paulhong01/Leetcode_Java/blob/master/Solution875.java)| Medium |
 [1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](Solution1014.java)| Medium |
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](Solution1898.java)| Medium |
+[2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)| [Solution](Solution2616.java)| Medium |
 
 
 # <h3> Two Pointers
