@@ -413,6 +413,7 @@ Title | Solution | Difficulty | Others
 [1519. Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| [Solution](Solution1519.java)| Medium | 
 [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](Solution1905.java)| Medium | 
 [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)| [Solution](Solution2596.java)| Medium | 
+[2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/)| [Solution](Solution2658.java)| Medium | 
 
  
 # <h3> Binary search 
