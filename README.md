@@ -112,6 +112,7 @@ Title | Solution | Difficulty | Others
 [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| [Solution](Solution2605.java)| Easy |
 [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/)| [Solution](Solution2614.java)| Easy |
 [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)| [Solution](Solution2615.java)| Medium |
+[2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)| [Solution](Solution2657.java)| Medium |
 
 
 # <h3> Dynamic Programming 
