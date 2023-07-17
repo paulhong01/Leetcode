@@ -114,6 +114,7 @@ Title | Solution | Difficulty | Others
 [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)| [Solution](Solution2615.java)| Medium |
 [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)| [Solution](Solution2656.java)| Easy |
 [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)| [Solution](Solution2657.java)| Medium |
+[2748. Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/)| [Solution](Solution2748.java)| Easy |
 
 
 # <h3> Dynamic Programming 
