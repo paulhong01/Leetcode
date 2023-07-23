@@ -162,6 +162,7 @@ Title | Solution | Difficulty | Others
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/) | [Solution](Solution1824.java) | Medium | 
 [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/) | [Solution](Solution2606.java) | Medium | 
 [2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) | [Solution](Solution2750.java) | Medium | 
+[2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | [Solution](Solution2770.java) | Medium | 
 
 
 # <h3> String 
