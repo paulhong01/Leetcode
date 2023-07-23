@@ -264,6 +264,7 @@ Title | Solution | Difficulty | Others
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/) | [Solution](Solution1904.java) | Medium |
 [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children) | [Solution](Solution2591.java) | Easy |
 [2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Solution](Solution2607.java) | Medium |
+[2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | [Solution](Solution2769.java) | Easy |
 
 
 # <h3> Tree 
