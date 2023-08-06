@@ -234,6 +234,7 @@ Title | Solution | Difficulty | Others
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/) | [Solution](Solution1816.java) | Easy |
 [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/) | [Solution](Solution18976.java) | Easy |
 [2609. Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/) | [Solution](Solution2609.java) | Easy |
+[2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | [Solution](Solution2785.java) | Medium |
 
 
 # <h3> Math 
