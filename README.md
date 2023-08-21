@@ -473,8 +473,9 @@ Title | Solution | Difficulty | Others
 [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [Solution](Solution487.java) | Medium |
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/description/) | [Solution](Solution763.java) | Medium |
 [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Solution](Solution844.java) | Easy |
-[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](Solution977java) | Easy |
-[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986java) | Medium |
+[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](Solution977.java) | Easy |
+[986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986.java) | Medium |
+[2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Solution](Solution2799.java) | Medium |
 
 
 # <h3> Breadth-first Search 
