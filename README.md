@@ -586,6 +586,7 @@ Title | Solution | Difficulty | Others
 [725. Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/) | [Solution](Solution725.java) | Medium |
 [817. Linked List Components](https://leetcode.com/problems/linked-list-components/description/) | [Solution](Solution817.java) | Medium |
 [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/) | [Solution](Solution876.java) | Easy | 
+[2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/) | [Solution](Solution2807.java) | Medium | 
  
 
 # <h3> Bit Manipulation 
