@@ -397,6 +397,7 @@ Title | Solution | Difficulty | Others
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](Solution1915.java)| Medium | 
 [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](Solution2588.java)| Medium | 
 [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| [Solution](Solution2610.java)| Medium | 
+[2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](Solution2808.java)| Medium | 
 
 
 # <h3> Depth-first search 
