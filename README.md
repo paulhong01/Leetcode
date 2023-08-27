@@ -273,6 +273,7 @@ Title | Solution | Difficulty | Others
 [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children) | [Solution](Solution2591.java) | Easy |
 [2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/) | [Solution](Solution2607.java) | Medium |
 [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | [Solution](Solution2769.java) | Easy |
+[2806. Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Solution](Solution2806.java) | Easy |
 
 
 # <h3> Tree 
