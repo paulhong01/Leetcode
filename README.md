@@ -120,6 +120,7 @@ Title | Solution | Difficulty | Others
 [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/)| [Solution](Solution2780.java)| Medium |
 [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)| [Solution](Solution2784.java)| Easy |
 [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)| [Solution](Solution2798.java)| Easy |
+[2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/)| [Solution](Solution2815.java)| Easy |
 
 
 # <h3> Dynamic Programming 
