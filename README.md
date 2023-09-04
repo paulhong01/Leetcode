@@ -460,6 +460,7 @@ Title | Solution | Difficulty | Others
 [1014. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| [Solution](Solution1014.java)| Medium |
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](Solution1898.java)| Medium |
 [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)| [Solution](Solution2616.java)| Medium |
+[2817. Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/)| [Solution](Solution2817.java)| Medium |
 
 
 # <h3> Two Pointers
