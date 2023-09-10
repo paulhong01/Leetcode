@@ -1,6 +1,5 @@
 // Leetcode 2824: Count Pairs Whose Sum is Less than Target
 
-
 class Solution2824 {
     public int countPairs(List<Integer> nums, int target) {
         // TC:O(NlogN), SC:O(1)
