@@ -170,6 +170,7 @@ Title | Solution | Difficulty | Others
 [2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/) | [Solution](Solution2750.java) | Medium | 
 [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | [Solution](Solution2770.java) | Medium | 
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/) | [Solution](Solution2786.java) | Medium | 
+[2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [Solution](Solution2826.java) | Medium | 
 
 
 # <h3> String 
