@@ -480,6 +480,7 @@ Title | Solution | Difficulty | Others
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](Solution977.java) | Easy |
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986.java) | Medium |
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Solution](Solution2799.java) | Medium |
+[2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Solution](Solution2824.java) | Easy |
 
 
 # <h3> Breadth-first Search 
