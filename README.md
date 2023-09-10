@@ -481,6 +481,7 @@ Title | Solution | Difficulty | Others
 [986. Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | [Solution](Solution986.java) | Medium |
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Solution](Solution2799.java) | Medium |
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Solution](Solution2824.java) | Easy |
+[2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Solution](Solution2825.java) | Medium |
 
 
 # <h3> Breadth-first Search 
