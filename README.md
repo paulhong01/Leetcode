@@ -433,6 +433,7 @@ Title | Solution | Difficulty | Others
 [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](Solution1905.java)| Medium | 
 [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/)| [Solution](Solution2596.java)| Medium | 
 [2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/)| [Solution](Solution2658.java)| Medium | 
+[2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| [Solution](Solution2830.java)| Medium | 
 
  
 # <h3> Binary search 
