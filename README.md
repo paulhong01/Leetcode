@@ -278,6 +278,7 @@ Title | Solution | Difficulty | Others
 [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/) | [Solution](Solution2769.java) | Easy |
 [2806. Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/) | [Solution](Solution2806.java) | Easy |
 [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/) | [Solution](Solution2829.java) | Medium |
+[2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [Solution](Solution2843.java) | Medium |
 
 
 # <h3> Tree 
