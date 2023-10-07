@@ -405,6 +405,7 @@ Title | Solution | Difficulty | Others
 [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](Solution2588.java)| Medium | 
 [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| [Solution](Solution2610.java)| Medium | 
 [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](Solution2808.java)| Medium | 
+[2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| [Solution](Solution2840.java)| Medium | 
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](Solution2845.java)| Medium | 
 
 
