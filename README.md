@@ -491,6 +491,7 @@ Title | Solution | Difficulty | Others
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/) | [Solution](Solution2799.java) | Medium |
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Solution](Solution2824.java) | Easy |
 [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Solution](Solution2825.java) | Medium |
+[2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/) | [Solution](Solution2841.java) | Medium |
 
 
 # <h3> Breadth-first Search 
