@@ -241,6 +241,7 @@ Title | Solution | Difficulty | Others
 [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/) | [Solution](Solution2785.java) | Medium |
 [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings/) | [Solution](Solution2800.java) | Medium |
 [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | [Solution](Solution2828.java) | Easy |
+[2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [Solution](Solution2839.java) | Easy |
 
 
 # <h3> Math 
