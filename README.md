@@ -407,6 +407,7 @@ Title | Solution | Difficulty | Others
 [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](Solution2808.java)| Medium | 
 [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| [Solution](Solution2840.java)| Medium | 
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](Solution2845.java)| Medium | 
+[2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)| [Solution](Solution2848.java)| Easy | 
 
 
 # <h3> Depth-first search 
