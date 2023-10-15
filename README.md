@@ -540,6 +540,7 @@ Title | Solution | Difficulty | Others
 [526. Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/description/) | [Solution](Solution526.java) | Medium | 
 [784. Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution784.java) | Easy |
 [980. Unique Paths III](https://leetcode.com/problems/letter-case-permutation/description/) | [Solution](Solution980.java) | Hard |
+[2850. Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/) | [Solution](Solution2850.java) | Medium |
 
 
 # <h3> Greedy 
