@@ -283,6 +283,7 @@ Title | Solution | Difficulty | Others
 [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/) | [Solution](Solution2843.java) | Easy |
 [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/) | [Solution](Solution2844.java) | Medium |
 [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/) | [Solution](Solution2849.java) | Medium |
+[2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | [Solution](Solution2894.java) | Easy |
 
 
 # <h3> Tree 
