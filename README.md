@@ -172,6 +172,7 @@ Title | Solution | Difficulty | Others
 [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/) | [Solution](Solution2770.java) | Medium | 
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/) | [Solution](Solution2786.java) | Medium | 
 [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/) | [Solution](Solution2826.java) | Medium | 
+[2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/) | [Solution](Solution2900.java) | Medium | 
 [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/) | [Solution](Solution2901.java) | Medium | 
 
 
