@@ -501,6 +501,8 @@ Title | Solution | Difficulty | Others
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/) | [Solution](Solution2824.java) | Easy |
 [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/) | [Solution](Solution2825.java) | Medium |
 [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/) | [Solution](Solution2841.java) | Medium |
+[2903. Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/) | [Solution](Solution2903.java) | Easy |
+[2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/) | [Solution](Solution2905.java) | Easy |
 
 
 # <h3> Breadth-first Search 
